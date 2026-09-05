@@ -143,7 +143,7 @@ The database can be further extended to support:
 
 ## Project Status
 
-**Status:** Database design, data organization, cleaning, and ETL implementation are in progress.
+**Status:** Database design, data organization, cleaning, and ETL implementation are completed.
 
 ---
 
