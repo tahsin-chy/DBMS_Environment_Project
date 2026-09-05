@@ -1,0 +1,151 @@
+River_Station_ID,River_Name,Rotation_of_river_survey,District,Upazila,Latitude,Longitude,start_date,last_date
+RMDRT5,Doratana,5 Years,Bagerhat,Bagerhat Sadar,22.5369,89.7759,2021-05-05,2025-04-21
+RMDRT4,Doratana,5 Years,Bagerhat,Bagerhat Sadar,22.5569,89.7778,2021-05-04,2025-04-21
+RMDRT3,Doratana,5 Years,Bagerhat,Bagerhat Sadar,22.5815,89.7922,2021-05-03,2025-04-20
+RMBSN4,Bisnu,5 Years,Bagerhat,Bagerhat Sadar,22.591,89.7165,2022-06-06,2022-06-06
+RMDRT2,Doratana,5 Years,Bagerhat,Bagerhat Sadar,22.609,89.7915,2021-05-02,2025-04-20
+RMBSN3,Bisnu,5 Years,Bagerhat,Bagerhat Sadar,22.6146,89.7153,2022-06-05,2022-06-05
+RMBSN2,Bisnu,5 Years,Bagerhat,Bagerhat Sadar,22.627,89.7295,2022-06-05,2022-06-05
+RMDRT1,Doratana,5 Years,Bagerhat,Bagerhat Sadar,22.6394,89.8023,2021-05-01,2025-04-20
+RMBSN1,Bisnu,5 Years,Bagerhat,Bagerhat Sadar,22.6417,89.7156,2022-06-05,2022-06-05
+RMGM38,Gorai-Madhumati-Haringhata-Baleswar,2 Years,Bagerhat,Mollahat,22.9435,89.7989,1995-02-08,2024-05-02
+RMBHO1,Bhola,5 Years,Bagerhat,Mongla,22.3694,89.6427,2017-05-23,2021-05-07
+RMBHO4,Bhola,5 Years,Bagerhat,Mongla,22.3982,89.7349,2017-05-14,2021-05-08
+RMBHO3,Bhola,5 Years,Bagerhat,Mongla,22.4055,89.6917,2017-05-17,2021-05-08
+RMBHO2,Bhola,5 Years,Bagerhat,Mongla,22.4093,89.6724,2017-05-20,2021-05-07
+RMKMK7,Kumarkhali Mongla,5 Years,Bagerhat,Mongla,22.4702,89.5999,2023-05-28,2023-05-28
+RMKMK6,Kumarkhali Mongla,5 Years,Bagerhat,Mongla,22.5039,89.6157,2023-05-27,2023-05-27
+RMKMK5,Kumarkhali Mongla,5 Years,Bagerhat,Mongla,22.5329,89.6347,2023-05-26,2023-05-26
+RMRP14,Rupsa-Pasur,3 Years,Bagerhat,Mongla,22.5458,89.5778,2006-04-22,2024-05-24
+RMBHO8,Bhola,5 Years,Bagerhat,Morrelganj,22.2134,89.808,2017-05-02,2021-05-10
+RMBHO7,Bhola,5 Years,Bagerhat,Morrelganj,22.2835,89.7965,2017-05-05,2021-05-10
+RMBHO5,Bhola,5 Years,Bagerhat,Morrelganj,22.3997,89.7568,2017-05-11,2021-05-09
+RMGH6,Ghashiakhali,3 Years,Bagerhat,Morrelganj,22.4354,89.8828,2017-04-21,2024-05-28
+RMGH5,Ghashiakhali,3 Years,Bagerhat,Morrelganj,22.4889,89.8618,2017-04-20,2024-05-27
+RMGH4,Ghashiakhali,3 Years,Bagerhat,Morrelganj,22.4889,89.8433,2017-04-18,2024-05-27
+RMGH3,Ghashiakhali,3 Years,Bagerhat,Morrelganj,22.4944,89.825,2017-04-24,2024-05-26
+RMGH2,Ghashiakhali,3 Years,Bagerhat,Morrelganj,22.5126,89.7888,2017-04-22,2024-05-26
+RMGH1,Ghashiakhali,3 Years,Bagerhat,Morrelganj,22.5247,89.7725,2017-04-20,2024-05-25
+RMKMK1,Kumarkhali Mongla,5 Years,Bagerhat,Rampal,22.5306,89.7579,2023-05-22,2023-05-22
+RMKMK3,Kumarkhali Mongla,5 Years,Bagerhat,Rampal,22.5453,89.686,2023-05-24,2023-05-24
+RMKMK4,Kumarkhali Mongla,5 Years,Bagerhat,Rampal,22.5483,89.6513,2023-05-25,2023-05-25
+RMKMK2,Kumarkhali Mongla,5 Years,Bagerhat,Rampal,22.5562,89.7101,2023-05-23,2023-05-23
+RMBSN6,Bisnu,5 Years,Bagerhat,Rampal,22.5604,89.7149,2022-06-06,2022-06-06
+RMBSN5,Bisnu,5 Years,Bagerhat,Rampal,22.5751,89.7087,2022-06-06,2022-06-06
+RMRP13,Rupsa-Pasur,3 Years,Bagerhat,Rampal,22.5858,89.5525,1995-06-15,2024-05-23
+RMBHO6,Bhola,5 Years,Bagerhat,Sarankhola,22.3466,89.7609,2017-05-08,2021-05-09
+RMMAT17,Matamuhuri,4 Years,Bandarban,Alikadam,21.4318,92.4713,1995-04-19,2009-02-21
+RMMAT16,Matamuhuri,4 Years,Bandarban,Alikadam,21.468,92.4504,1995-04-16,2009-02-20
+RMMAT15,Matamuhuri,4 Years,Bandarban,Alikadam,21.6005,92.3612,1995-04-13,2025-02-03
+RMMAT14,Matamuhuri,4 Years,Bandarban,Alikadam,21.6158,92.3331,1995-04-10,2025-02-02
+RMMAT13,Matamuhuri,4 Years,Bandarban,Alikadam,21.6501,92.3037,1995-04-07,2025-02-02
+RMMAT12,Matamuhuri,4 Years,Bandarban,Alikadam,21.6987,92.2508,1995-04-04,2025-02-01
+RMSAU15,Sangu,3 Years,Bandarban,Bandarban Sadar,22.191,92.2272,2005-04-28,2023-05-05
+RMSAU14,Sangu,3 Years,Bandarban,Bandarban Sadar,22.1951,92.2167,2005-04-30,2023-05-04
+RMSAU13,Sangu,3 Years,Bandarban,Bandarban Sadar,22.2096,92.2055,2005-05-01,2023-05-04
+RMMAT11,Matamuhuri,4 Years,Bandarban,Lama,21.7334,92.2337,1995-04-01,2025-02-01
+RMMAT8,Matamuhuri,4 Years,Bandarban,Lama,21.7771,92.1745,1995-03-22,2025-01-30
+RMMAT9,Matamuhuri,4 Years,Bandarban,Lama,21.7796,92.194,1995-03-25,2025-01-31
+RMSNC6,Sonaichari,4 Years,Bandarban,Lama,21.8454,92.0877,2015-02-16,2025-01-29
+RMSAU19,Sangu,3 Years,Bandarban,Ruma,22.05,92.4062,2005-04-24,2023-05-05
+RMSAU18,Sangu,3 Years,Bandarban,Ruma,22.0548,92.3952,2005-04-25,2023-05-05
+RMSAU17,Sangu,3 Years,Bandarban,Ruma,22.0607,92.3797,2005-04-26,2023-05-05
+RMSAU16,Sangu,3 Years,Bandarban,Ruma,22.0648,92.3522,2005-04-27,2023-05-05
+RMSAU22,Sangu,3 Years,Bandarban,Thanchi,21.8162,92.4359,2005-04-20,2023-05-06
+RMSAU21,Sangu,3 Years,Bandarban,Thanchi,21.8752,92.3951,2005-04-22,2023-05-06
+RMSAU20,Sangu,3 Years,Bandarban,Thanchi,21.8857,92.3934,2005-04-23,2023-05-06
+RMTK13,Tiakhali,3 Years,Barguna,Amtali,22.0006,90.2866,2016-03-12,2022-06-08
+RMBB15,Barisal-Buriswar,3 Years,Barguna,Amtali,22.1052,90.1901,2009-03-31,2025-04-07
+RMTK10,Tiakhali,3 Years,Barguna,Amtali,22.1063,90.2984,2016-03-11,2022-06-07
+RMBB16,Barisal-Buriswar,3 Years,Barguna,Amtali,22.1107,90.1682,2009-04-03,2025-04-07
+RMBB14,Barisal-Buriswar,3 Years,Barguna,Amtali,22.1114,90.2089,2009-03-28,2025-04-08
+RMTK9,Tiakhali,3 Years,Barguna,Amtali,22.131,90.3193,2016-03-09,2022-06-07
+RMBB13,Barisal-Buriswar,3 Years,Barguna,Amtali,22.1426,90.2258,2009-03-25,2025-04-08
+RMTK8,Tiakhali,3 Years,Barguna,Amtali,22.1584,90.3136,2016-03-07,2022-06-07
+RMBB12,Barisal-Buriswar,3 Years,Barguna,Amtali,22.1688,90.2355,2009-04-03,2025-04-08
+RMTK7,Tiakhali,3 Years,Barguna,Amtali,22.1787,90.3257,2016-03-05,2022-06-06
+RMTK5,Tiakhali,3 Years,Barguna,Amtali,22.1931,90.3487,2016-03-09,2022-06-06
+RMTK4,Tiakhali,3 Years,Barguna,Amtali,22.2245,90.3474,2016-03-07,2022-06-05
+RMBB11,Barisal-Buriswar,3 Years,Barguna,Amtali,22.226,90.2279,2012-04-02,2025-04-08
+RMBIS16,Bishkhali,3 Years,Barguna,Barguna Sadar,22.0333,89.9911,1980-12-30,2023-05-12
+RMBIS15,Bishkhali,3 Years,Barguna,Barguna Sadar,22.0519,90.0303,1981-01-03,2023-05-11
+RMBIS14,Bishkhali,3 Years,Barguna,Barguna Sadar,22.1256,90.035,1981-01-07,2023-05-11
+RMBIS13,Bishkhali,3 Years,Barguna,Barguna Sadar,22.1516,90.0687,1981-01-11,2023-05-11
+RMBIS12,Bishkhali,3 Years,Barguna,Betagi,22.1934,90.0313,1981-01-15,2023-05-10
+RMBIS11,Bishkhali,3 Years,Barguna,Betagi,22.2293,90.0844,1981-07-19,2023-05-09
+RMBIS10,Bishkhali,3 Years,Barguna,Betagi,22.2675,90.1089,1981-01-23,2023-05-09
+RMBIS9,Bishkhali,3 Years,Barguna,Betagi,22.3366,90.1053,1981-01-27,2023-05-08
+RMBIS8,Bishkhali,3 Years,Barguna,Betagi,22.38,90.1333,1981-01-31,2023-05-08
+RMBIS7,Bishkhali,3 Years,Barguna,Betagi,22.4202,90.1681,1981-02-04,2023-05-07
+RMBIS6,Bishkhali,3 Years,Barguna,Betagi,22.4689,90.1903,1981-02-08,2023-05-07
+RMSS2,Sharup Kati Sandha,4 Years,Barisal,Babuganj,22.8616,90.2934,2010-04-22,2025-04-19
+RMSS1,Sharup Kati Sandha,4 Years,Barisal,Babuganj,22.8708,90.3328,2010-04-19,2025-04-19
+RMKRD7,Khairabad,4 Years,Barisal,Bakerganj,22.5274,90.3529,2020-05-19,2023-05-12
+RMLH13,Lohalia,4 Years,Barisal,Bakerganj,22.5504,90.4608,2013-03-20,2025-04-14
+RMKRD6,Khairabad,4 Years,Barisal,Bakerganj,22.5515,90.3411,2020-05-17,2023-05-11
+RMBB2,Barisal-Buriswar,3 Years,Barisal,Bakerganj,22.5691,90.4544,2005-04-04,2025-04-12
+RMBB1,Barisal-Buriswar,3 Years,Barisal,Bakerganj,22.5786,90.4894,2005-04-01,2025-04-12
+RMKRD5,Khairabad,4 Years,Barisal,Bakerganj,22.6012,90.3413,2020-05-15,2023-05-11
+RMKRD4,Khairabad,4 Years,Barisal,Bakerganj,22.6021,90.3875,2020-05-13,2023-05-10
+RMKRD3,Khairabad,4 Years,Barisal,Bakerganj,22.6097,90.3764,2020-05-11,2023-05-10
+RMSS7,Sharup Kati Sandha,4 Years,Barisal,Banaripara,22.7699,90.1294,2010-05-07,2025-04-18
+RMSS6,Sharup Kati Sandha,4 Years,Barisal,Banaripara,22.7953,90.1613,2010-05-04,2025-04-18
+RMSS4,Sharup Kati Sandha,4 Years,Barisal,Banaripara,22.8261,90.2032,2010-04-28,2025-04-18
+RMSS5,Sharup Kati Sandha,4 Years,Barisal,Banaripara,22.8344,90.1636,2010-05-01,2025-04-18
+RMSU2,Sugandha,4 Years,Barisal,Barisal Sadar,22.6604,90.321,2022-06-03,2025-04-16
+RMKT4,Kirtankhola,3 Years,Barisal,Barisal Sadar,22.6625,90.357,2022-06-03,2025-04-14
+RMBIS0.1,Bishkhali,3 Years,Barisal,Barisal Sadar,22.6894,90.389,2008-09-04,2023-05-05
+RMKT3,Kirtankhola,3 Years,Barisal,Barisal Sadar,22.703,90.391,2022-06-03,2025-04-14
+RMKT1,Kirtankhola,3 Years,Barisal,Barisal Sadar,22.7263,90.4382,2022-06-02,2025-04-14
+RMKT2,Kirtankhola,3 Years,Barisal,Barisal Sadar,22.7313,90.3882,2022-06-02,2025-04-14
+RMDM1,Dharmajani,3 Years,Barisal,Hizla,22.8728,90.5226,2013-05-23,2023-05-10
+RMDM2,Dharmajani,3 Years,Barisal,Hizla,22.8743,90.525,2013-05-25,2023-05-11
+RMJT2,Jayanti,3 Years,Barisal,Hizla,23.0012,90.4517,2003-05-27,2020-03-05
+RMJT1,Jayanti,3 Years,Barisal,Hizla,23.0589,90.4314,2003-05-27,2020-03-04
+RMLT1,Lota,5 Years,Barisal,Mehendiganj,22.7985,90.438,2013-03-14,2022-05-31
+RMDM4,Dharmajani,3 Years,Barisal,Mehendiganj,22.8007,90.47,2013-05-29,2023-05-13
+RMLT2,Lota,5 Years,Barisal,Mehendiganj,22.8312,90.452,2013-03-16,2022-05-31
+RMDM3,Dharmajani,3 Years,Barisal,Mehendiganj,22.847,90.4964,2013-05-27,2023-05-12
+RMLT5,Lota,5 Years,Barisal,Mehendiganj,22.8813,90.4872,2013-03-22,2022-06-02
+RMLT3,Lota,5 Years,Barisal,Mehendiganj,22.8815,90.4408,2013-03-18,2022-06-01
+RMLT4,Lota,5 Years,Barisal,Mehendiganj,22.8875,90.472,2013-03-20,2022-06-01
+RMAK19,Arial Khan,2 Years,Barisal,Muladi,22.7827,90.3999,1969-03-22,2024-05-06
+RMAK18,Arial Khan,2 Years,Barisal,Muladi,22.8217,90.3694,1969-03-15,2024-05-05
+RMAK17,Arial Khan,2 Years,Barisal,Muladi,22.885,90.3683,1969-03-07,2024-05-04
+RMJT4,Jayanti,3 Years,Barisal,Muladi,22.994,90.3451,2003-05-27,2020-03-07
+RMJT3,Jayanti,3 Years,Barisal,Muladi,23.0075,90.3801,2003-05-27,2020-03-06
+RMSS3,Sharup Kati Sandha,4 Years,Barisal,Wazirpur,22.8074,90.2388,2010-04-25,2025-04-19
+RMAK16,Arial Khan,2 Years,Barisal,Wazirpur,22.9463,90.3686,1969-02-22,2024-05-04
+RMTEN7,Tentulia (Barisal-Bhola),2 Years,Bhola,Bhola Sadar,22.5662,90.6352,2003-05-12,2025-02-19
+RMTEN6,Tentulia (Barisal-Bhola),2 Years,Bhola,Bhola Sadar,22.5977,90.582,2003-05-09,2025-02-17
+RMTEN5,Tentulia (Barisal-Bhola),2 Years,Bhola,Bhola Sadar,22.6437,90.5714,2003-05-11,2025-02-15
+RMTEN4,Tentulia (Barisal-Bhola),2 Years,Bhola,Bhola Sadar,22.6979,90.5734,2003-05-05,2025-02-12
+RMTEN1,Tentulia (Barisal-Bhola),2 Years,Bhola,Bhola Sadar,22.7183,90.6641,2003-05-06,2025-02-08
+RMTEN3,Tentulia (Barisal-Bhola),2 Years,Bhola,Bhola Sadar,22.7544,90.5534,2003-05-08,2025-02-11
+RMTEN2,Tentulia (Barisal-Bhola),2 Years,Bhola,Bhola Sadar,22.7924,90.6151,2003-05-14,2025-02-09
+RMTEN9,Tentulia (Barisal-Bhola),2 Years,Bhola,Burhanuddin,22.4273,90.6773,2003-05-17,2025-02-24
+RMTEN8,Tentulia (Barisal-Bhola),2 Years,Bhola,Burhanuddin,22.4919,90.6774,2003-05-13,2025-02-21
+RMTEN12,Tentulia (Barisal-Bhola),2 Years,Bhola,Char Fasson,22.1986,90.6439,2014-01-18,2025-03-02
+RMTEN11,Tentulia (Barisal-Bhola),2 Years,Bhola,Lalmohan,22.2701,90.6824,2003-05-22,2025-02-28
+RMTEN10,Tentulia (Barisal-Bhola),2 Years,Bhola,Lalmohan,22.3433,90.6889,1993-05-23,2025-02-26
+RMSBC3,Shahbazpur,4 Years,Bhola,Manpura,22.1462,90.9393,2020-02-12,2025-03-13
+RMSBC2,Shahbazpur,4 Years,Bhola,Manpura,22.2077,90.9543,2020-02-14,2025-03-11
+RMSBC1,Shahbazpur,4 Years,Bhola,Manpura,22.2699,90.9784,2020-02-18,2025-03-09
+RMJK1,Deonai_Charalkata_Jamuneswari_Karatoa,4 Years,Bogra,Bogra Sadar,24.8683,89.3866,2000-05-25,2022-05-18
+RMJK2,Deonai_Charalkata_Jamuneswari_Karatoa,4 Years,Bogra,Bogra Sadar,24.8968,89.362,2000-05-27,2022-05-18
+RMJK3,Deonai_Charalkata_Jamuneswari_Karatoa,4 Years,Bogra,Bogra Sadar,24.918,89.3541,2000-05-29,2022-05-18
+RMJK4,Deonai_Charalkata_Jamuneswari_Karatoa,4 Years,Bogra,Bogra Sadar,24.9386,89.3652,2000-05-31,2022-05-18
+RMBLI2,Bangali,4 Years,Bogra,Dhunot,24.67,89.4978,1999-11-26,2023-04-18
+RMBLI3,Bangali,4 Years,Bogra,Dhunot,24.6844,89.4864,1999-11-27,2023-04-27
+RMBLI4,Bangali,4 Years,Bogra,Dhunot,24.7146,89.4997,1999-11-28,2023-04-27
+RMBLI5,Bangali,4 Years,Bogra,Dhunot,24.7433,89.4872,1999-11-29,2023-04-28
+RMBLI6,Bangali,4 Years,Bogra,Dhunot,24.7611,89.5193,1999-11-30,2023-04-28
+RMBLI7,Bangali,4 Years,Bogra,Dhunot,24.7778,89.5428,1999-01-12,2023-05-02
+RMNA7,Nagor,5 Years,Bogra,Dhupchanchia,24.8196,89.1846,2013-04-25,2020-03-23
+RMNA6,Nagor,5 Years,Bogra,Dhupchanchia,24.8724,89.1815,2013-04-22,2020-03-22
+RMNA8,Nagor,5 Years,Bogra,Kahaloo,24.8108,89.1645,2013-04-28,2020-03-23
+RMNA5,Nagor,5 Years,Bogra,Kahaloo,24.8954,89.2,2013-03-15,2020-02-13
+RMNA4,Nagor,5 Years,Bogra,Kahaloo,24.9142,89.223,2006-06-17,2020-02-12
+RMBLI8,Bangali,4 Years,Bogra,Shariakandi,24.8043,89.5412,1999-02-12,2023-05-02
+RMBLI9,Bangali,4 Years,Bogra,Shariakandi,24.8195,89.562,1999-03-12,2023-05-03
+RMBLI10,Bangali,4 Years,Bogra,Shariakandi,24.8597,89.5752,2000-04-12,2023-05-04

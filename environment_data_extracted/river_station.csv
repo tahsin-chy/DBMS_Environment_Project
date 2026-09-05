@@ -1,0 +1,307 @@
+River_Station_ID,River_Station_Name,River_Name,upazila_name,latitude,longitude
+SW203.5,Poamuhuri,Matamuhuri,Alikadam,21.4581,92.4545
+SW247,Bandarban,Sangu,Bandarban Sadar,22.1966,92.2166
+SW203,Lama,Matamuhuri,Lama,21.7861,92.1908
+SW247.4,Remakri,Sangu,Thanchi,21.6761,92.5173
+SW37.5,Betagi,Bishkhali,Betagi,22.4161,90.1656
+SW18,Barisal,Kirtankhola,Barisal Sadar,22.6966,90.374
+SW123,Gangasagar Rly.,Hawrah,Akhaura,23.8335,91.1985
+SW296,Akhaura,Titas,Akhaura,23.8798,91.1993
+SW359,Harashpur,Lohor,Bijoynagar,24.0168,91.2991
+SW3A,Brahmanbaria,Anderson khal,Brahamanbaria Sadar,23.9569,91.1196
+SW297,Gokarnaghat,Titas,Brahamanbaria Sadar,23.9531,91.0831
+SW3,Brahmanbaria Rly_Bridge,Anderson khal,Brahamanbaria Sadar,23.9566,91.12
+SW298,Nabinagar,Titas,Nabinagar,23.9051,90.9735
+SW298.5,Salimganj,Titas,Nabinagar,23.8486,90.8453
+SW295,Ajabpur,Titas,Sarail,24.1212,91.0548
+SW277,Chandpur,Surma-Meghna,Chandpur Sadar,23.229,90.6448
+SW277.3,Nilkamal,Surma-Meghna,Haimchar,23.0843,90.6492
+SW58A,Laksam,Dakatia,Hajiganj,23.2338,91.1189
+SW58,Hajiganj,Dakatia,Hajiganj,23.2489,90.8613
+SW276,Satnal,Surma-Meghna,Matlab Dakshin,23.4805,90.5932
+SW79,Matlab Bazar,Dhanagoda,Matlab Uttar,23.3548,90.7098
+SW250,Banigram,Sangu,Bashkhali,22.1217,91.8947
+SW248,Dohazari,Sangu,Chandanaish,22.1593,92.0671
+SW152.2,Kalurghat,Karnafuli,Chittagong Sadar,22.3946,91.8908
+SW121,Enayethat,Halda,Chittagong Sadar,22.4197,91.8823
+SW357,Akulia,Dhurang Khal,Fatikchhari,22.681,91.7778
+SW356,Bainochhola,Dhurang Khal,Fatikchhari,22.7615,91.8685
+SW117,Narayanhat,Halda,Fatikchhari,22.812,91.721
+SW119.1,Panchpukuria,Halda,Fatikchhari,22.667,91.7821
+SW120,Telpari,Halda,Hathazari,22.5575,91.8441
+SW84.1,Kaliachari,Feni,Mirsharai,22.939,91.6157
+SW125,Outfall Karnafuli(Rangunia),Ichamati(Rangamati),Rangunia,22.4594,92.0648
+SW124,Thandachari,Ichamati(Rangamati),Rangunia,22.57,92.0404
+SW206,Hatboalia,Mathabhanga,Alamdanga,23.8264,88.8626
+SW204,Chiringa,Matamuhuri,Chakaria,21.771,92.0813
+SW176,Lemsikhali,Kutubdia Channel,Kutubdia,21.8132,91.8752
+SW200,Saflapur_Moheshkhali,Moheshkhali Channel,Maheshkhali,21.6594,91.9685
+SW40,Ramu,Bogkhali,Ramu,21.4205,92.1098
+SW358,Rongikhali,Naf,Teknaf,21.0484,92.2539
+SW339,Salda Rly Bridg,Salda,Brahmanpara,23.6716,91.1564
+SW113,Kangsanagar,Gumti-Burinadi,Burichang,23.5553,91.0647
+SW181A,Selonia,Little Feni Dakatia,Chauddagram,22.9823,91.3375
+SW334,Miar Bazar,Kakri,Chauddagram,23.3351,91.2693
+SW181,Gunabati Rly.Br,Little Feni Dakatia,Chauddagram,23.1013,91.2778
+SW109,Bibirbazar,Gumti-Burinadi,Cumilla Sadar,23.4706,91.2448
+SW110,Cumilla,Gumti-Burinadi,Cumilla Sadar,23.4704,91.2027
+SW348,Chowara,Sonaichari_Khal,Cumilla Sadar,23.4161,91.2207
+SW115,Daudkandi,Gumti-Burinadi,Daudkandi,23.5405,90.7148
+SW114,Jibanpur_Gumti,Gumti-Burinadi,Debidwar,23.6056,90.9942
+SW179,Demra(Lakhya),Lakhya,Demra,23.7278,90.5059
+SW7.5,Demra(Balu),Balu,Demra,23.7329,90.4965
+SW42,Dhaka_Mill Barrack,Buriganga,Dhaka Sadar(Kotwal,23.6969,90.4195
+SW70,Kalatia_Outfall,Dhaleswari,Keraniganj,23.7304,90.2561
+SW302,Mirpur,Turag,Mirpur,23.7846,90.3364
+SW69,Savar,Dhaleswari,Savar,23.8403,90.2439
+SW14.5,Nayarhat,Bangshi,Savar,23.9057,90.231
+SW299,Tongi,Tongi Khal,Uttara,23.8824,90.4021
+SW101,Kamarkhali Transit,Gorai-Madhumati-Haringhata-Baleswar,Madhukhali,23.5391,89.5169
+SW4A,Offtake of Arialkhan,Arial Khan,Sadarpur,23.4333,90.0877
+SW213,Haripur_C,Muhuri,Chhagalnaiya,23.0356,91.4856
+SW86,Shuvopur(Dhumghat),Feni,Chhagalnaiya,22.9538,91.5442
+SW257,Malipur_C,Selonia,Chhagalnaiya,23.0377,91.4389
+SW212,Parshuram,Muhuri,Parshuram,23.2274,91.4464
+SW257.5,Suber Bazar,Selonia,Parshuram,23.237,91.4144
+SW87,Sonapur,Feni,Sonagazi,22.8369,91.453
+SW46.9R,Fulchari_Transit,Brahmaputra-Jamuna,Fulchhari,25.1871,89.5993
+SW7,Pubail,Balu,Gazipur Sadar,23.9349,90.4898
+SW301,Kaliakoir,Turag,Kaliakair,24.0822,90.2076
+SW229,Toke,Old Brahmaputra,Sreepur,24.2631,90.6426
+SW198,Haridaspur,Madaripur Beel Route,Gopalganj Sadar,23.0296,89.8144
+SW271,Azmiriganj,Surma-Meghna,Ajmiriganj,24.5529,91.2267
+SW138,Sofiabad,Korangi,Bahubal,24.293,91.5465
+SW270,Markuli,Surma-Meghna,Baniachong,24.6952,91.379
+SW157,Ballah,Khowai,Chunarughat,24.0838,91.5961
+SW158,Chunarghat,Khowai,Chunarughat,24.2026,91.5273
+SW159,Habiganj,Khowai,Habiganj Sadar,24.3681,91.4277
+SW280,Sutang Rly.Brid,Sutang,Habiganj Sadar,24.2828,91.403
+SW158.1,Shaistaganj,Khowai,Habiganj Sadar,24.2731,91.4736
+SW272,Madna,Surma-Meghna,Lakhai,24.3358,91.2376
+SW264A,Montala,Sonai,Madhabpur,24.0834,91.3506
+SW223,Goal Kanda,Nil Jinjiram,Dewanganj,25.3652,89.8095
+SW46.7L,Kholabarichar,Old Brahmaputra,Dewanganj,25.2275,89.7532
+SW46.9L,Bahadurabad_Transit,Brahmaputra-Jamuna,Islampur,25.1303,89.7346
+SW225,Jamalpur,Old Brahmaputra,Jamalpur Sadar,24.9224,89.9677
+SW134B,Offtake of Jhenai,Jhenai,Melandaha,24.9495,89.8987
+SW48,Jaganathganj,Brahmaputra-Jamuna,Sarishabari,24.6419,89.8046
+SW134A,Baushi Bridge,Jhenai,Sarishabari,24.7802,89.8521
+SW162,Jhikargacha,Kobadak,Jhikargachha,23.1054,89.0938
+SW361,Dighinala,Maine,Dighinala,23.2529,92.0689
+SW360,Khagrachhari,Chengi,Khagrachhari Sadar,23.1036,91.9689
+SW84,Ramgarh,Feni,Ramgarh,23.0003,91.7312
+SW272.1,Austogram,Surma-Meghna,Astagram,24.2748,91.0989
+SW74,Dilalpur,Dhanu-Baulai-Ghorautra,Bajitpur,24.1893,90.9744
+SW273,Bhairab Bazar,Surma-Meghna,Bhairab,24.0455,90.9911
+SW73,Itna,Dhanu-Baulai-Ghorautra,Itna,24.5306,91.0891
+SW311.4,Chamraghat,Mogra,Karimgonj,24.4567,90.9641
+SW77,Kurigram,Dharla,Kurigram Sadar,25.8228,89.6647
+SW327,Boalmari,Nil Jinjiram,Raumari,25.6174,89.867
+SW99,Gorai Railway Bridge,Gorai-Madhumati-Haringhata-Baleswar,Kumarkhali,23.8861,89.1806
+SW239.5,Piarpur,Rahmat Khali Khal,Lakshmipur Sadar,22.9026,90.8456
+SW71,Kalagachia,Dhaleswari,Narayanganj Sadar,23.57,90.5047
+SW275,Badyar Bazar,Surma-Meghna,Sonargaon,23.6463,90.6253
+SW274,Narsingdi,Surma-Meghna,Narsingdi Sadar,23.9186,90.7265
+SW230.1,Ramnagar,Old Brahmaputra,Roypura,24.037,90.9607
+SW177,Lakhpur,Lakhya,Shibpur,24.0663,90.6369
+SW311,Atpara,Mogra,Atpara,24.8119,90.8655
+SW263,Durgapur,Someswari,Durgapur,25.1139,90.6705
+SW262,Bijoypur,Someswari,Durgapur,25.172,90.6593
+SW263.1,Kalmakanda,Someswari,Kalmakanda,25.0767,90.8948
+SW344,Ghog Bazar,Saiduli Baruni,Kendua,24.6896,90.8652
+SW72,Khaliajuri,Dhanu-Baulai-Ghorautra,Khaliajuri,24.6877,91.1348
+SW355,South Hasonpur,Mogra,Madan,24.6261,90.9593
+SW36.1,Mohanganj,Bhogai-Kangsa,Mohanganj,24.8728,90.9739
+SW310,Netrokona,Mogra,Netrokona Sadar,24.8829,90.7248
+SW36,Jaria-Jhanjail,Bhogai-Kangsa,Purbadhala,25.0103,90.6533
+SW291.5R,Dalia,Teesta,Dimla,26.1758,89.0505
+SW221.5,Begumganj,Noakhali Khal,Begumganj,22.9447,91.1098
+SW182,Companyganj,Little Feni Dakatia,Companiganj,22.7694,91.3492
+SW321,Hatiya,Hatiya Channel,Hatiya,22.2485,91.1403
+SW222,Noakhali,Noakhali Khal,Noakhali Sadar,22.845,91.1017
+SW90,Hardinge Bridge,Ganges-Padma,Ishwardi,24.0794,89.0336
+SW19,Mirzaganj,Barisal-Buriswar,Mirzaganj,22.3587,90.2304
+SW107,Pirojpur,Gorai-Madhumati-Haringhata-Baleswar,Pirojpur Sadar,22.5826,89.963
+SW88,Rajshahi,Ganges-Padma,Boalia,24.361,88.5704
+SW211,Godagari,Mahananda,Godagari,24.4656,88.32
+SW233,Ratnar bhanga(Piyan gang),Piyan,Gowainghat,25.1624,91.967
+SW233A,Jaflong_Spill,Piyan,Jaintiapur,25.1568,92.0167
+SW251,Sarighat,Sari-Gowain,Jaintiapur,25.0939,92.1173
+SW266,Kanairghat,Surma-Meghna,Kanairghat,24.998,92.2594
+SW326A,Borogram,Lubachara,Kanairghat,25.054,92.3374
+SW326,Lubachara,Lubachara,Kanairghat,25.0515,92.3085
+SW175.5,Sherpur,Kushiyara,Osmani Nagar,24.6303,91.6813
+SW267,Sylhet,Surma-Meghna,Sylhet Sadar,24.8879,91.868
+SW252.1,Salutikar,Sari-Gowain,Sylhet Sadar,24.9916,91.8522
+SW172.5,Amalshid,Kushiyara,Zakiganj,24.8784,92.49
+SW343.5,Bhuiyanpur d/s,Futikjani,Bhuapur,24.4688,89.8753
+SW68A,Elashin,Dhaleswari,Delduar,24.1187,89.8877
+SW342,Nolsafa,Futikjani,Ghatail,24.4887,89.9
+SW134,Jukerchar,Jhenai,Kalihati,24.3779,89.8526
+SW12,Madhupur,Bangshi,Madhupur,24.6058,90.0289
+SW14,Mirzapur_Bangshi,Bangshi,Mirzapur,24.1096,90.0974
+SW186,Jugini,Lohajang,Tangail Sadar,24.2904,89.8746
+SW50,Porabari,Brahmaputra-Jamuna,Tangail Sadar,24.3011,89.797
+SW13,Kawaljani,Bangshi,Tangail Sadar,24.299,90.0583
+SW208,Darsana,Mathabhanga,Damurhuda,23.5246,88.7884
+SW101.B,Kamarkhali,Gorai-Madhumati-Haringhata-Baleswar,Madhukhali,23.5395,89.5168
+SW171,Garaganj,Kumar (Jessore),Shailkupa,23.6683,89.2
+SW81,Pateswari,Dudhkumar,Bhurungamari,26.0972,89.7206
+SW216,Magura,Nabaganga,Magura Sadar,23.4946,89.4235
+SW91.9L,Baruria Transit,Ganges-Padma,Harirampur,23.7843,89.8139
+SW205,Kazipur,Mathabhanga,Gangni,23.9631,88.7425
+SW32,Kathuli,Bhairab (upper),Gangni,23.8612,88.6487
+SW93.5L,Mawa,Ganges-Padma,Lohajang,23.4748,90.2531
+SW350,Rajnganj,Kirtinasha,Sariatpur Sadar,23.2206,90.3392
+SW173,Sheola,Kushiyara,Beanibazar,24.8911,92.1915
+SW91-9L,N/A,,,0,0
+RMDRT5,,Doratana,Bagerhat Sadar,22.5369,89.7759
+RMDRT4,,Doratana,Bagerhat Sadar,22.5569,89.7778
+RMDRT3,,Doratana,Bagerhat Sadar,22.5815,89.7922
+RMBSN4,,Bisnu,Bagerhat Sadar,22.591,89.7165
+RMDRT2,,Doratana,Bagerhat Sadar,22.609,89.7915
+RMBSN3,,Bisnu,Bagerhat Sadar,22.6146,89.7153
+RMBSN2,,Bisnu,Bagerhat Sadar,22.627,89.7295
+RMDRT1,,Doratana,Bagerhat Sadar,22.6394,89.8023
+RMBSN1,,Bisnu,Bagerhat Sadar,22.6417,89.7156
+RMGM38,,Gorai-Madhumati-Haringhata-Baleswar,Mollahat,22.9435,89.7989
+RMBHO1,,Bhola,Mongla,22.3694,89.6427
+RMBHO4,,Bhola,Mongla,22.3982,89.7349
+RMBHO3,,Bhola,Mongla,22.4055,89.6917
+RMBHO2,,Bhola,Mongla,22.4093,89.6724
+RMKMK7,,Kumarkhali Mongla,Mongla,22.4702,89.5999
+RMKMK6,,Kumarkhali Mongla,Mongla,22.5039,89.6157
+RMKMK5,,Kumarkhali Mongla,Mongla,22.5329,89.6347
+RMRP14,,Rupsa-Pasur,Mongla,22.5458,89.5778
+RMBHO8,,Bhola,Morrelganj,22.2134,89.808
+RMBHO7,,Bhola,Morrelganj,22.2835,89.7965
+RMBHO5,,Bhola,Morrelganj,22.3997,89.7568
+RMGH6,,Ghashiakhali,Morrelganj,22.4354,89.8828
+RMGH5,,Ghashiakhali,Morrelganj,22.4889,89.8618
+RMGH4,,Ghashiakhali,Morrelganj,22.4889,89.8433
+RMGH3,,Ghashiakhali,Morrelganj,22.4944,89.825
+RMGH2,,Ghashiakhali,Morrelganj,22.5126,89.7888
+RMGH1,,Ghashiakhali,Morrelganj,22.5247,89.7725
+RMKMK1,,Kumarkhali Mongla,Rampal,22.5306,89.7579
+RMKMK3,,Kumarkhali Mongla,Rampal,22.5453,89.686
+RMKMK4,,Kumarkhali Mongla,Rampal,22.5483,89.6513
+RMKMK2,,Kumarkhali Mongla,Rampal,22.5562,89.7101
+RMBSN6,,Bisnu,Rampal,22.5604,89.7149
+RMBSN5,,Bisnu,Rampal,22.5751,89.7087
+RMRP13,,Rupsa-Pasur,Rampal,22.5858,89.5525
+RMBHO6,,Bhola,Sarankhola,22.3466,89.7609
+RMMAT17,,Matamuhuri,Alikadam,21.4318,92.4713
+RMMAT16,,Matamuhuri,Alikadam,21.468,92.4504
+RMMAT15,,Matamuhuri,Alikadam,21.6005,92.3612
+RMMAT14,,Matamuhuri,Alikadam,21.6158,92.3331
+RMMAT13,,Matamuhuri,Alikadam,21.6501,92.3037
+RMMAT12,,Matamuhuri,Alikadam,21.6987,92.2508
+RMSAU15,,Sangu,Bandarban Sadar,22.191,92.2272
+RMSAU14,,Sangu,Bandarban Sadar,22.1951,92.2167
+RMSAU13,,Sangu,Bandarban Sadar,22.2096,92.2055
+RMMAT11,,Matamuhuri,Lama,21.7334,92.2337
+RMMAT8,,Matamuhuri,Lama,21.7771,92.1745
+RMMAT9,,Matamuhuri,Lama,21.7796,92.194
+RMSNC6,,Sonaichari,Lama,21.8454,92.0877
+RMSAU19,,Sangu,Ruma,22.05,92.4062
+RMSAU18,,Sangu,Ruma,22.0548,92.3952
+RMSAU17,,Sangu,Ruma,22.0607,92.3797
+RMSAU16,,Sangu,Ruma,22.0648,92.3522
+RMSAU22,,Sangu,Thanchi,21.8162,92.4359
+RMSAU21,,Sangu,Thanchi,21.8752,92.3951
+RMSAU20,,Sangu,Thanchi,21.8857,92.3934
+RMTK13,,Tiakhali,Amtali,22.0006,90.2866
+RMBB15,,Barisal-Buriswar,Amtali,22.1052,90.1901
+RMTK10,,Tiakhali,Amtali,22.1063,90.2984
+RMBB16,,Barisal-Buriswar,Amtali,22.1107,90.1682
+RMBB14,,Barisal-Buriswar,Amtali,22.1114,90.2089
+RMTK9,,Tiakhali,Amtali,22.131,90.3193
+RMBB13,,Barisal-Buriswar,Amtali,22.1426,90.2258
+RMTK8,,Tiakhali,Amtali,22.1584,90.3136
+RMBB12,,Barisal-Buriswar,Amtali,22.1688,90.2355
+RMTK7,,Tiakhali,Amtali,22.1787,90.3257
+RMTK5,,Tiakhali,Amtali,22.1931,90.3487
+RMTK4,,Tiakhali,Amtali,22.2245,90.3474
+RMBB11,,Barisal-Buriswar,Amtali,22.226,90.2279
+RMBIS16,,Bishkhali,Barguna Sadar,22.0333,89.9911
+RMBIS15,,Bishkhali,Barguna Sadar,22.0519,90.0303
+RMBIS14,,Bishkhali,Barguna Sadar,22.1256,90.035
+RMBIS13,,Bishkhali,Barguna Sadar,22.1516,90.0687
+RMBIS12,,Bishkhali,Betagi,22.1934,90.0313
+RMBIS11,,Bishkhali,Betagi,22.2293,90.0844
+RMBIS10,,Bishkhali,Betagi,22.2675,90.1089
+RMBIS9,,Bishkhali,Betagi,22.3366,90.1053
+RMBIS8,,Bishkhali,Betagi,22.38,90.1333
+RMBIS7,,Bishkhali,Betagi,22.4202,90.1681
+RMBIS6,,Bishkhali,Betagi,22.4689,90.1903
+RMSS2,,Sharup Kati Sandha,Babuganj,22.8616,90.2934
+RMSS1,,Sharup Kati Sandha,Babuganj,22.8708,90.3328
+RMKRD7,,Khairabad,Bakerganj,22.5274,90.3529
+RMLH13,,Lohalia,Bakerganj,22.5504,90.4608
+RMKRD6,,Khairabad,Bakerganj,22.5515,90.3411
+RMBB2,,Barisal-Buriswar,Bakerganj,22.5691,90.4544
+RMBB1,,Barisal-Buriswar,Bakerganj,22.5786,90.4894
+RMKRD5,,Khairabad,Bakerganj,22.6012,90.3413
+RMKRD4,,Khairabad,Bakerganj,22.6021,90.3875
+RMKRD3,,Khairabad,Bakerganj,22.6097,90.3764
+RMSS7,,Sharup Kati Sandha,Banaripara,22.7699,90.1294
+RMSS6,,Sharup Kati Sandha,Banaripara,22.7953,90.1613
+RMSS4,,Sharup Kati Sandha,Banaripara,22.8261,90.2032
+RMSS5,,Sharup Kati Sandha,Banaripara,22.8344,90.1636
+RMSU2,,Sugandha,Barisal Sadar,22.6604,90.321
+RMKT4,,Kirtankhola,Barisal Sadar,22.6625,90.357
+RMBIS0.1,,Bishkhali,Barisal Sadar,22.6894,90.389
+RMKT3,,Kirtankhola,Barisal Sadar,22.703,90.391
+RMKT1,,Kirtankhola,Barisal Sadar,22.7263,90.4382
+RMKT2,,Kirtankhola,Barisal Sadar,22.7313,90.3882
+RMDM1,,Dharmajani,Hizla,22.8728,90.5226
+RMDM2,,Dharmajani,Hizla,22.8743,90.525
+RMJT2,,Jayanti,Hizla,23.0012,90.4517
+RMJT1,,Jayanti,Hizla,23.0589,90.4314
+RMLT1,,Lota,Mehendiganj,22.7985,90.438
+RMDM4,,Dharmajani,Mehendiganj,22.8007,90.47
+RMLT2,,Lota,Mehendiganj,22.8312,90.452
+RMDM3,,Dharmajani,Mehendiganj,22.847,90.4964
+RMLT5,,Lota,Mehendiganj,22.8813,90.4872
+RMLT3,,Lota,Mehendiganj,22.8815,90.4408
+RMLT4,,Lota,Mehendiganj,22.8875,90.472
+RMAK19,,Arial Khan,Muladi,22.7827,90.3999
+RMAK18,,Arial Khan,Muladi,22.8217,90.3694
+RMAK17,,Arial Khan,Muladi,22.885,90.3683
+RMJT4,,Jayanti,Muladi,22.994,90.3451
+RMJT3,,Jayanti,Muladi,23.0075,90.3801
+RMSS3,,Sharup Kati Sandha,Wazirpur,22.8074,90.2388
+RMAK16,,Arial Khan,Wazirpur,22.9463,90.3686
+RMTEN7,,Tentulia (Barisal-Bhola),Bhola Sadar,22.5662,90.6352
+RMTEN6,,Tentulia (Barisal-Bhola),Bhola Sadar,22.5977,90.582
+RMTEN5,,Tentulia (Barisal-Bhola),Bhola Sadar,22.6437,90.5714
+RMTEN4,,Tentulia (Barisal-Bhola),Bhola Sadar,22.6979,90.5734
+RMTEN1,,Tentulia (Barisal-Bhola),Bhola Sadar,22.7183,90.6641
+RMTEN3,,Tentulia (Barisal-Bhola),Bhola Sadar,22.7544,90.5534
+RMTEN2,,Tentulia (Barisal-Bhola),Bhola Sadar,22.7924,90.6151
+RMTEN9,,Tentulia (Barisal-Bhola),Burhanuddin,22.4273,90.6773
+RMTEN8,,Tentulia (Barisal-Bhola),Burhanuddin,22.4919,90.6774
+RMTEN12,,Tentulia (Barisal-Bhola),Char Fasson,22.1986,90.6439
+RMTEN11,,Tentulia (Barisal-Bhola),Lalmohan,22.2701,90.6824
+RMTEN10,,Tentulia (Barisal-Bhola),Lalmohan,22.3433,90.6889
+RMSBC3,,Shahbazpur,Manpura,22.1462,90.9393
+RMSBC2,,Shahbazpur,Manpura,22.2077,90.9543
+RMSBC1,,Shahbazpur,Manpura,22.2699,90.9784
+RMJK1,,Deonai_Charalkata_Jamuneswari_Karatoa,Bogra Sadar,24.8683,89.3866
+RMJK2,,Deonai_Charalkata_Jamuneswari_Karatoa,Bogra Sadar,24.8968,89.362
+RMJK3,,Deonai_Charalkata_Jamuneswari_Karatoa,Bogra Sadar,24.918,89.3541
+RMJK4,,Deonai_Charalkata_Jamuneswari_Karatoa,Bogra Sadar,24.9386,89.3652
+RMBLI2,,Bangali,Dhunot,24.67,89.4978
+RMBLI3,,Bangali,Dhunot,24.6844,89.4864
+RMBLI4,,Bangali,Dhunot,24.7146,89.4997
+RMBLI5,,Bangali,Dhunot,24.7433,89.4872
+RMBLI6,,Bangali,Dhunot,24.7611,89.5193
+RMBLI7,,Bangali,Dhunot,24.7778,89.5428
+RMNA7,,Nagor,Dhupchanchia,24.8196,89.1846
+RMNA6,,Nagor,Dhupchanchia,24.8724,89.1815
+RMNA8,,Nagor,Kahaloo,24.8108,89.1645
+RMNA5,,Nagor,Kahaloo,24.8954,89.2
+RMNA4,,Nagor,Kahaloo,24.9142,89.223
+RMBLI8,,Bangali,Shariakandi,24.8043,89.5412
+RMBLI9,,Bangali,Shariakandi,24.8195,89.562
+RMBLI10,,Bangali,Shariakandi,24.8597,89.5752

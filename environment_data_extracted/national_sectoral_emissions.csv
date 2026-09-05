@@ -1,0 +1,253 @@
+Country_name,Source_ID,Source,Year,Unit,Emissions_Quantity,Gas_Name,Type_of_Emission
+Bangladesh,5064,Crop Residues,1961,kt,0.9816,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1962,kt,0.9655,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1963,kt,1.0591,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1964,kt,1.0676,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1965,kt,1.0771,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1966,kt,1.0211,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1967,kt,1.1435,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1968,kt,1.1429,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1969,kt,1.2117,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1970,kt,1.1499,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1971,kt,1.0588,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1972,kt,1.087,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1973,kt,1.178,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1974,kt,1.1481,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1975,kt,1.2472,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1976,kt,1.1812,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1977,kt,1.241,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1978,kt,1.2556,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1979,kt,1.2535,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1980,kt,1.3261,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1981,kt,1.3395,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1982,kt,1.3662,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1983,kt,1.3299,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1984,kt,1.371,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1985,kt,1.4126,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1986,kt,1.422,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1987,kt,1.4046,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1988,kt,1.4032,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1989,kt,1.5121,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1990,kt,1.5041,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1991,kt,1.5099,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1992,kt,1.5119,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1993,kt,1.4865,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1994,kt,1.4361,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1995,kt,1.4779,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1996,kt,1.55,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1997,kt,1.5572,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1998,kt,1.6047,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,1999,kt,1.7919,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2000,kt,1.8808,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2001,kt,1.8292,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2002,kt,1.8695,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2003,kt,1.8849,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2004,kt,1.7896,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2005,kt,1.9056,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2006,kt,1.9365,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2007,kt,2.0093,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2008,kt,2.1808,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2009,kt,2.2017,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2010,kt,2.285,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2011,kt,2.3108,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2012,kt,2.3059,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2013,kt,2.3521,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2014,kt,2.3861,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2015,kt,2.3907,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2016,kt,2.3344,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2017,kt,2.4962,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2018,kt,2.4909,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2019,kt,2.4996,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2020,kt,2.5131,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2021,kt,2.579,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2022,kt,2.6051,N2O,Indirect Emission
+Bangladesh,5064,Crop Residues,2023,kt,2.6513,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1961,kt,2.0185,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1962,kt,2.1003,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1963,kt,2.1818,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1964,kt,2.3512,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1965,kt,2.3394,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1966,kt,2.3101,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1967,kt,2.368,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1968,kt,2.4325,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1969,kt,2.4904,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1970,kt,2.5666,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1971,kt,2.5766,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1972,kt,2.6056,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1973,kt,2.5894,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1974,kt,2.6602,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1975,kt,2.7309,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1976,kt,2.8529,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1977,kt,2.9194,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1978,kt,3.2091,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1979,kt,3.3707,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1980,kt,2.4768,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1981,kt,2.5283,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1982,kt,2.5718,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1983,kt,2.621,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1984,kt,2.8988,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1985,kt,3.0454,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1986,kt,3.1747,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1987,kt,3.3121,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1988,kt,3.4587,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1989,kt,3.6098,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1990,kt,3.781,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1991,kt,3.9205,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1992,kt,4.1048,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1993,kt,4.3271,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1994,kt,4.6182,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1995,kt,4.9215,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1996,kt,5.2557,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1997,kt,5.4474,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1998,kt,5.4196,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,1999,kt,5.3242,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2000,kt,5.1822,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2001,kt,4.981,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2002,kt,4.8274,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2003,kt,4.6567,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2004,kt,4.541,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2005,kt,4.4974,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2006,kt,4.5247,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2007,kt,4.6365,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2008,kt,4.7413,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2009,kt,4.8415,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2010,kt,4.9648,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2011,kt,5.0744,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2012,kt,5.2092,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2013,kt,5.2697,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2014,kt,5.3124,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2015,kt,5.3583,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2016,kt,5.4058,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2017,kt,5.4536,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2018,kt,5.5025,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2019,kt,5.5123,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2020,kt,5.6069,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2021,kt,5.6543,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2022,kt,5.6945,N2O,Indirect Emission
+Bangladesh,5059,Manure Management,2023,kt,5.7455,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1961,kt,2.0185,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1962,kt,2.1003,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1963,kt,2.1818,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1964,kt,2.3512,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1965,kt,2.3394,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1966,kt,2.3101,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1967,kt,2.368,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1968,kt,2.4325,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1969,kt,2.4904,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1970,kt,2.5666,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1971,kt,2.5766,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1972,kt,2.6056,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1973,kt,2.5894,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1974,kt,2.6602,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1975,kt,2.7309,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1976,kt,2.8529,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1977,kt,2.9194,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1978,kt,3.2091,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1979,kt,3.3707,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1980,kt,2.4768,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1981,kt,2.5283,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1982,kt,2.5718,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1983,kt,2.621,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1984,kt,2.8988,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1985,kt,3.0454,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1986,kt,3.1747,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1987,kt,3.3121,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1988,kt,3.4587,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1989,kt,3.6098,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1990,kt,3.781,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1991,kt,3.9205,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1992,kt,4.1048,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1993,kt,4.3271,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1994,kt,4.6182,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1995,kt,4.9215,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1996,kt,5.2557,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1997,kt,5.4474,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1998,kt,5.4196,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,1999,kt,5.3242,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2000,kt,5.1822,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2001,kt,4.981,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2002,kt,4.8274,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2003,kt,4.6567,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2004,kt,4.541,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2005,kt,4.4974,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2006,kt,4.5247,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2007,kt,4.6365,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2008,kt,4.7413,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2009,kt,4.8415,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2010,kt,4.9648,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2011,kt,5.0744,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2012,kt,5.2092,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2013,kt,5.2697,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2014,kt,5.3124,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2015,kt,5.3583,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2016,kt,5.4058,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2017,kt,5.4536,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2018,kt,5.5025,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2019,kt,5.5123,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2020,kt,5.6069,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2021,kt,5.6543,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2022,kt,5.6945,N2O,Indirect Emission
+Bangladesh,5063,Manure left on Pasture,2023,kt,5.7455,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1961,kt,0.6308,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1962,kt,0.6628,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1963,kt,0.6921,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1964,kt,0.7504,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1965,kt,0.7474,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1966,kt,0.7833,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1967,kt,0.8084,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1968,kt,0.8359,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1969,kt,0.8599,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1970,kt,0.891,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1971,kt,0.8737,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1972,kt,0.8638,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1973,kt,0.8308,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1974,kt,0.8462,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1975,kt,0.862,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1976,kt,0.8867,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1977,kt,0.8927,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1978,kt,1.0442,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1979,kt,1.0954,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1980,kt,0.7981,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1981,kt,0.8164,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1982,kt,0.8332,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1983,kt,0.8517,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1984,kt,0.8449,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1985,kt,0.8701,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1986,kt,0.8929,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1987,kt,0.9166,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1988,kt,0.9416,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1989,kt,0.9622,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1990,kt,0.995,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1991,kt,1.0129,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1992,kt,1.0412,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1993,kt,1.0744,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1994,kt,1.1205,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1995,kt,1.1681,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1996,kt,1.1625,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1997,kt,1.2036,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1998,kt,1.2227,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,1999,kt,1.239,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2000,kt,1.2591,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2001,kt,1.2698,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2002,kt,1.292,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2003,kt,1.3109,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2004,kt,1.3246,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2005,kt,1.3547,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2006,kt,1.3776,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2007,kt,1.4077,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2008,kt,1.4329,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2009,kt,1.4463,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2010,kt,1.4841,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2011,kt,1.5105,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2012,kt,1.553,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2013,kt,1.5926,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2014,kt,1.6122,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2015,kt,1.6344,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2016,kt,1.6583,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2017,kt,1.6824,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2018,kt,1.7072,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2019,kt,1.6882,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2020,kt,1.765,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2021,kt,1.7874,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2022,kt,1.8008,N2O,Indirect Emission
+Bangladesh,5062,Manure applied to Soils,2023,kt,1.8268,N2O,Indirect Emission

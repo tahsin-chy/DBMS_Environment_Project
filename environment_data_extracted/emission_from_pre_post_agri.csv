@@ -1,0 +1,989 @@
+country_name,source_id,source,year,unit,emissions_quantity,gas_name,Type_of_Emission
+Bangladesh,6504,Fertilizers Manufacturing,1990,kt,640.794341,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1991,kt,657.286273,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1992,kt,663.236182,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1993,kt,666.486619,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1994,kt,694.01613,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1995,kt,708.236363,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1996,kt,733.783919,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1997,kt,763.707465,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1998,kt,789.715291,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1999,kt,822.117269,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2000,kt,838.878839,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2001,kt,862.4353,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2002,kt,1577.646906,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2003,kt,1869.33445,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2004,kt,1816.635653,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2005,kt,1765.44609,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2006,kt,1719.426639,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2007,kt,1582.816393,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2008,kt,1334.718608,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2009,kt,1174.395531,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2010,kt,946.984597,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2011,kt,847.809357,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2012,kt,861.682991,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2013,kt,896.138335,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2014,kt,760.506691,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2015,kt,764.675522,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2016,kt,915.874711,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2017,kt,831.728564,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2018,kt,681.732365,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2019,kt,707.305371,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2020,kt,1177.813561,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2021,kt,1196.144572,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2022,kt,1196.144572,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2023,kt,1196.144572,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1990,kt,31.728231,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1991,kt,31.872998,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1992,kt,36.566971,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1993,kt,38.926438,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1994,kt,10.044108,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1995,kt,12.163308,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1996,kt,25.536878,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1997,kt,13.59337,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1998,kt,23.113926,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,1999,kt,63.625558,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2000,kt,63.018307,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2001,kt,49.74498,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2002,kt,91.616702,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2003,kt,116.48373,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2004,kt,151.262619,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2005,kt,138.374967,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2006,kt,139.480076,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2007,kt,154.932301,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2008,kt,270.347271,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2009,kt,297.545375,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2010,kt,218.92023,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2011,kt,140.809828,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2012,kt,285.379172,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2013,kt,56.70936,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2014,kt,334.001012,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2015,kt,36.103144,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2016,kt,298.168875,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2017,kt,310.75829,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2018,kt,310.733704,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2019,kt,305.348987,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2020,kt,308.548961,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2021,kt,308.548961,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2022,kt,308.548961,CO2eq,Emission
+Bangladesh,6997,Pesticides Manufacturing,2023,kt,308.548961,CO2eq,Emission
+Bangladesh,6815,Food Transport,1990,kt,182.93007,CO2eq,Emission
+Bangladesh,6815,Food Transport,1991,kt,204.793738,CO2eq,Emission
+Bangladesh,6815,Food Transport,1992,kt,236.02886,CO2eq,Emission
+Bangladesh,6815,Food Transport,1993,kt,242.354794,CO2eq,Emission
+Bangladesh,6815,Food Transport,1994,kt,247.286393,CO2eq,Emission
+Bangladesh,6815,Food Transport,1995,kt,298.625094,CO2eq,Emission
+Bangladesh,6815,Food Transport,1996,kt,329.209052,CO2eq,Emission
+Bangladesh,6815,Food Transport,1997,kt,372.186699,CO2eq,Emission
+Bangladesh,6815,Food Transport,1998,kt,380.589269,CO2eq,Emission
+Bangladesh,6815,Food Transport,1999,kt,346.978863,CO2eq,Emission
+Bangladesh,6815,Food Transport,2000,kt,340.360495,CO2eq,Emission
+Bangladesh,6815,Food Transport,2001,kt,423.695284,CO2eq,Emission
+Bangladesh,6815,Food Transport,2002,kt,430.475901,CO2eq,Emission
+Bangladesh,6815,Food Transport,2003,kt,440.538014,CO2eq,Emission
+Bangladesh,6815,Food Transport,2004,kt,486.21354,CO2eq,Emission
+Bangladesh,6815,Food Transport,2005,kt,553.38064,CO2eq,Emission
+Bangladesh,6815,Food Transport,2006,kt,591.822826,CO2eq,Emission
+Bangladesh,6815,Food Transport,2007,kt,598.579735,CO2eq,Emission
+Bangladesh,6815,Food Transport,2008,kt,680.064715,CO2eq,Emission
+Bangladesh,6815,Food Transport,2009,kt,725.030162,CO2eq,Emission
+Bangladesh,6815,Food Transport,2010,kt,848.616877,CO2eq,Emission
+Bangladesh,6815,Food Transport,2011,kt,992.969056,CO2eq,Emission
+Bangladesh,6815,Food Transport,2012,kt,1002.722681,CO2eq,Emission
+Bangladesh,6815,Food Transport,2013,kt,953.661519,CO2eq,Emission
+Bangladesh,6815,Food Transport,2014,kt,1029.68985,CO2eq,Emission
+Bangladesh,6815,Food Transport,2015,kt,1080.636199,CO2eq,Emission
+Bangladesh,6815,Food Transport,2016,kt,1145.34149,CO2eq,Emission
+Bangladesh,6815,Food Transport,2017,kt,1269.270925,CO2eq,Emission
+Bangladesh,6815,Food Transport,2018,kt,1384.024782,CO2eq,Emission
+Bangladesh,6815,Food Transport,2019,kt,1349.261859,CO2eq,Emission
+Bangladesh,6815,Food Transport,2020,kt,1193.043082,CO2eq,Emission
+Bangladesh,6815,Food Transport,2021,kt,1320.1899,CO2eq,Emission
+Bangladesh,6815,Food Transport,2022,kt,1465.422971,CO2eq,Emission
+Bangladesh,6815,Food Transport,2023,kt,1465.422971,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1990,kt,1.910412,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1991,kt,2.04303,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1992,kt,2.14605,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1993,kt,2.278955,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1994,kt,2.48706,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1995,kt,14.92236,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1996,kt,27.837413,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1997,kt,25.733119,CO2eq,Emission
+Bangladesh,6506,Food Packaging,1998,kt,23.212024,CO2eq,Emission
+Bangladesh,6508,Food Retail,1990,kt,918.583612,CO2eq,Emission
+Bangladesh,6508,Food Retail,1991,kt,936.203956,CO2eq,Emission
+Bangladesh,6508,Food Retail,1992,kt,958.6467,CO2eq,Emission
+Bangladesh,6508,Food Retail,1993,kt,563.724847,CO2eq,Emission
+Bangladesh,6508,Food Retail,1994,kt,585.744215,CO2eq,Emission
+Bangladesh,6508,Food Retail,1995,kt,610.170379,CO2eq,Emission
+Bangladesh,6508,Food Retail,1996,kt,82.7656,CO2eq,Emission
+Bangladesh,6508,Food Retail,1997,kt,111.684534,CO2eq,Emission
+Bangladesh,6508,Food Retail,1998,kt,122.322294,CO2eq,Emission
+Bangladesh,6508,Food Retail,1999,kt,149.403146,CO2eq,Emission
+Bangladesh,6508,Food Retail,2000,kt,264.796889,CO2eq,Emission
+Bangladesh,6508,Food Retail,2001,kt,368.657771,CO2eq,Emission
+Bangladesh,6508,Food Retail,2002,kt,463.404983,CO2eq,Emission
+Bangladesh,6508,Food Retail,2003,kt,560.530469,CO2eq,Emission
+Bangladesh,6508,Food Retail,2004,kt,664.681075,CO2eq,Emission
+Bangladesh,6508,Food Retail,2005,kt,800.56307,CO2eq,Emission
+Bangladesh,6508,Food Retail,2006,kt,886.196423,CO2eq,Emission
+Bangladesh,6508,Food Retail,2007,kt,910.724215,CO2eq,Emission
+Bangladesh,6508,Food Retail,2008,kt,927.797187,CO2eq,Emission
+Bangladesh,6508,Food Retail,2009,kt,975.201827,CO2eq,Emission
+Bangladesh,6508,Food Retail,2010,kt,1046.159585,CO2eq,Emission
+Bangladesh,6508,Food Retail,2011,kt,1011.067843,CO2eq,Emission
+Bangladesh,6508,Food Retail,2012,kt,1042.274405,CO2eq,Emission
+Bangladesh,6508,Food Retail,2013,kt,1076.065477,CO2eq,Emission
+Bangladesh,6508,Food Retail,2014,kt,1189.589163,CO2eq,Emission
+Bangladesh,6508,Food Retail,2015,kt,1320.419507,CO2eq,Emission
+Bangladesh,6508,Food Retail,2016,kt,1486.032036,CO2eq,Emission
+Bangladesh,6508,Food Retail,2017,kt,1643.489711,CO2eq,Emission
+Bangladesh,6508,Food Retail,2018,kt,1838.422715,CO2eq,Emission
+Bangladesh,6508,Food Retail,2019,kt,2125.526444,CO2eq,Emission
+Bangladesh,6508,Food Retail,2020,kt,2212.453913,CO2eq,Emission
+Bangladesh,6508,Food Retail,2021,kt,2545.799282,CO2eq,Emission
+Bangladesh,6508,Food Retail,2022,kt,2576.660489,CO2eq,Emission
+Bangladesh,6508,Food Retail,2023,kt,2576.660489,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1990,kt,157.917672,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1991,kt,199.534088,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1992,kt,198.57229,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1993,kt,245.56056,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1994,kt,295.066866,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1995,kt,334.594696,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1996,kt,352.238544,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1997,kt,386.918137,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1998,kt,436.0699,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,1999,kt,485.517347,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2000,kt,555.7431,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2001,kt,661.497222,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2002,kt,734.263856,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2003,kt,788.093523,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2004,kt,842.819909,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2005,kt,896.448424,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2006,kt,996.088089,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2007,kt,1056.700733,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2008,kt,1054.718153,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2009,kt,1126.428088,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2010,kt,1305.459796,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2011,kt,1376.217717,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2012,kt,1488.601497,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2013,kt,1560.726955,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2014,kt,1785.197343,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2015,kt,1866.787773,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2016,kt,2305.601424,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2017,kt,2470.320762,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2018,kt,2677.160537,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2019,kt,2804.330875,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2020,kt,2794.788232,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2021,kt,3037.955843,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2022,kt,3138.971693,CO2eq,Emission
+Bangladesh,6505,Food Household Consumption,2023,kt,3138.971693,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1990,kt,9519.142688,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1991,kt,9573.936104,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1992,kt,9614.227334,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1993,kt,9647.361405,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1994,kt,9671.712799,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1995,kt,9704.29979,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1996,kt,9753.618453,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1997,kt,9790.275889,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1998,kt,9819.508633,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,1999,kt,9842.373587,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2000,kt,9863.134816,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2001,kt,9878.330435,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2002,kt,9890.315247,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2003,kt,9911.581313,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2004,kt,9936.150723,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2005,kt,9961.078217,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2006,kt,9981.846636,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2007,kt,10010.0495,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2008,kt,10047.87972,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2009,kt,10087.76078,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2010,kt,10130.1058,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2011,kt,10172.88487,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2012,kt,10205.6608,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2013,kt,10243.94555,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2014,kt,10288.59307,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2015,kt,10334.34771,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2016,kt,10407.21465,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2017,kt,10467.75074,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2018,kt,10520.1062,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2019,kt,10566.94081,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2020,kt,10606.40059,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2021,kt,10647.40517,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2022,kt,10688.07243,CO2eq,Emission
+Bangladesh,6987,Solid Food Waste,2023,kt,10707.31077,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1990,kt,4583.927018,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1991,kt,4668.793411,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1992,kt,4753.53986,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1993,kt,4824.644412,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1994,kt,4920.1448,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1995,kt,5017.341407,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1996,kt,5112.306218,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1997,kt,5214.266489,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1998,kt,5318.631574,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,1999,kt,5467.530128,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2000,kt,5554.663609,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2001,kt,5662.283697,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2002,kt,5763.158865,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2003,kt,5851.033151,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2004,kt,5945.100826,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2005,kt,6016.463614,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2006,kt,6084.267916,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2007,kt,6172.720175,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2008,kt,6215.372386,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2009,kt,6310.685924,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2010,kt,6373.80715,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2011,kt,6416.099155,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2012,kt,6478.878066,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2013,kt,6555.01708,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2014,kt,6648.820124,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2015,kt,6728.953242,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2016,kt,6786.437945,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2017,kt,6863.40919,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2018,kt,6944.756455,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2019,kt,6994.270791,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2020,kt,7081.798673,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2021,kt,7168.236492,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2022,kt,7238.639351,CO2eq,Emission
+Bangladesh,6988,Domestic Wastewater,2023,kt,7327.617298,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1990,kt,44.040612,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1991,kt,49.293404,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1992,kt,49.373013,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1993,kt,48.039643,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1994,kt,50.718919,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1995,kt,67.340359,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1996,kt,60.284692,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1997,kt,59.379722,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1998,kt,63.036761,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,1999,kt,64.458424,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2000,kt,64.216296,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2001,kt,65.288573,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2002,kt,78.760661,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2003,kt,76.55387,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2004,kt,74.343299,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2005,kt,76.724967,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2006,kt,81.745922,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2007,kt,82.522144,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2008,kt,78.71996,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2009,kt,77.615884,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2010,kt,79.21359,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2011,kt,82.351373,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2012,kt,83.557841,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2013,kt,88.798807,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2014,kt,65.150067,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2015,kt,64.139993,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2016,kt,64.89705,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2017,kt,65.877457,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2018,kt,66.077581,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2019,kt,66.077581,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2020,kt,66.077581,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2021,kt,55.96327,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2022,kt,55.96327,CO2eq,Emission
+Bangladesh,6989,Industrial Wastewater,2023,kt,55.96327,CO2eq,Emission
+Bangladesh,6990,Incineration,1990,kt,46.542189,CO2eq,Emission
+Bangladesh,6990,Incineration,1991,kt,46.502744,CO2eq,Emission
+Bangladesh,6990,Incineration,1992,kt,46.548912,CO2eq,Emission
+Bangladesh,6990,Incineration,1993,kt,46.635435,CO2eq,Emission
+Bangladesh,6990,Incineration,1994,kt,46.670072,CO2eq,Emission
+Bangladesh,6990,Incineration,1995,kt,46.894282,CO2eq,Emission
+Bangladesh,6990,Incineration,1996,kt,47.283403,CO2eq,Emission
+Bangladesh,6990,Incineration,1997,kt,47.356845,CO2eq,Emission
+Bangladesh,6990,Incineration,1998,kt,47.425064,CO2eq,Emission
+Bangladesh,6990,Incineration,1999,kt,47.473967,CO2eq,Emission
+Bangladesh,6990,Incineration,2000,kt,47.551217,CO2eq,Emission
+Bangladesh,6990,Incineration,2001,kt,47.573506,CO2eq,Emission
+Bangladesh,6990,Incineration,2002,kt,47.599459,CO2eq,Emission
+Bangladesh,6990,Incineration,2003,kt,47.78174,CO2eq,Emission
+Bangladesh,6990,Incineration,2004,kt,47.93395,CO2eq,Emission
+Bangladesh,6990,Incineration,2005,kt,48.058939,CO2eq,Emission
+Bangladesh,6990,Incineration,2006,kt,48.122167,CO2eq,Emission
+Bangladesh,6990,Incineration,2007,kt,48.321099,CO2eq,Emission
+Bangladesh,6990,Incineration,2008,kt,48.591913,CO2eq,Emission
+Bangladesh,6990,Incineration,2009,kt,48.807113,CO2eq,Emission
+Bangladesh,6990,Incineration,2010,kt,49.033707,CO2eq,Emission
+Bangladesh,6990,Incineration,2011,kt,49.244391,CO2eq,Emission
+Bangladesh,6990,Incineration,2012,kt,49.313537,CO2eq,Emission
+Bangladesh,6990,Incineration,2013,kt,49.540595,CO2eq,Emission
+Bangladesh,6990,Incineration,2014,kt,49.813975,CO2eq,Emission
+Bangladesh,6990,Incineration,2015,kt,50.047135,CO2eq,Emission
+Bangladesh,6990,Incineration,2016,kt,50.637809,CO2eq,Emission
+Bangladesh,6990,Incineration,2017,kt,50.834348,CO2eq,Emission
+Bangladesh,6990,Incineration,2018,kt,51.007418,CO2eq,Emission
+Bangladesh,6990,Incineration,2019,kt,51.178513,CO2eq,Emission
+Bangladesh,6990,Incineration,2020,kt,51.299323,CO2eq,Emission
+Bangladesh,6990,Incineration,2021,kt,51.505574,CO2eq,Emission
+Bangladesh,6990,Incineration,2022,kt,51.698422,CO2eq,Emission
+Bangladesh,6990,Incineration,2023,kt,51.600954,CO2eq,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1990,kt,640.794341,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1991,kt,657.286273,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1992,kt,663.236182,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1993,kt,666.486619,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1994,kt,694.01613,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1995,kt,708.236363,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1996,kt,733.783919,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1997,kt,763.707465,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1998,kt,789.715291,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,1999,kt,822.117269,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2000,kt,838.878839,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2001,kt,862.4353,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2002,kt,1577.646906,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2003,kt,1869.33445,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2004,kt,1816.635653,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2005,kt,1765.44609,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2006,kt,1719.426639,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2007,kt,1582.816393,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2008,kt,1334.718608,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2009,kt,1174.395531,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2010,kt,946.984597,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2011,kt,847.809357,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2012,kt,861.682991,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2013,kt,896.138335,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2014,kt,760.506691,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2015,kt,764.675522,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2016,kt,915.874711,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2017,kt,831.728564,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2018,kt,681.732365,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2019,kt,707.305371,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2020,kt,1177.813561,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2021,kt,1196.144572,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2022,kt,1196.144572,CO2,Emission
+Bangladesh,6504,Fertilizers Manufacturing,2023,kt,1196.144572,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1990,kt,31.663976,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1991,kt,31.810391,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1992,kt,36.493692,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1993,kt,38.851356,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1994,kt,10.025051,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1995,kt,12.139116,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1996,kt,25.486198,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1997,kt,13.565916,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1998,kt,23.067008,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1999,kt,63.495754,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2000,kt,62.890721,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2001,kt,49.646286,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2002,kt,91.434042,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2003,kt,116.255968,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2004,kt,150.957802,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2005,kt,138.100302,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2006,kt,139.195672,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2007,kt,154.614156,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2008,kt,269.791758,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2009,kt,296.933675,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2010,kt,218.480303,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2011,kt,140.519179,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2012,kt,284.796151,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2013,kt,56.594782,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2014,kt,333.29434,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2015,kt,36.027522,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2016,kt,297.556538,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2017,kt,310.106759,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2018,kt,310.044244,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2019,kt,304.714818,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2020,kt,307.908175,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2021,kt,307.908175,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2022,kt,307.908175,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,2023,kt,307.908175,CO2,Emission
+Bangladesh,6815,Food Transport,1990,kt,177.178315,CO2,Emission
+Bangladesh,6815,Food Transport,1991,kt,197.774118,CO2,Emission
+Bangladesh,6815,Food Transport,1992,kt,227.909508,CO2,Emission
+Bangladesh,6815,Food Transport,1993,kt,233.988088,CO2,Emission
+Bangladesh,6815,Food Transport,1994,kt,238.718844,CO2,Emission
+Bangladesh,6815,Food Transport,1995,kt,288.260961,CO2,Emission
+Bangladesh,6815,Food Transport,1996,kt,317.7688,CO2,Emission
+Bangladesh,6815,Food Transport,1997,kt,359.158009,CO2,Emission
+Bangladesh,6815,Food Transport,1998,kt,367.276878,CO2,Emission
+Bangladesh,6815,Food Transport,1999,kt,334.928897,CO2,Emission
+Bangladesh,6815,Food Transport,2000,kt,328.415372,CO2,Emission
+Bangladesh,6815,Food Transport,2001,kt,408.970256,CO2,Emission
+Bangladesh,6815,Food Transport,2002,kt,415.543132,CO2,Emission
+Bangladesh,6815,Food Transport,2003,kt,425.12128,CO2,Emission
+Bangladesh,6815,Food Transport,2004,kt,468.354024,CO2,Emission
+Bangladesh,6815,Food Transport,2005,kt,534.911299,CO2,Emission
+Bangladesh,6815,Food Transport,2006,kt,571.164967,CO2,Emission
+Bangladesh,6815,Food Transport,2007,kt,577.125721,CO2,Emission
+Bangladesh,6815,Food Transport,2008,kt,654.165679,CO2,Emission
+Bangladesh,6815,Food Transport,2009,kt,696.283272,CO2,Emission
+Bangladesh,6815,Food Transport,2010,kt,815.105997,CO2,Emission
+Bangladesh,6815,Food Transport,2011,kt,953.037347,CO2,Emission
+Bangladesh,6815,Food Transport,2012,kt,962.306603,CO2,Emission
+Bangladesh,6815,Food Transport,2013,kt,914.858036,CO2,Emission
+Bangladesh,6815,Food Transport,2014,kt,987.93404,CO2,Emission
+Bangladesh,6815,Food Transport,2015,kt,1036.686682,CO2,Emission
+Bangladesh,6815,Food Transport,2016,kt,1098.652282,CO2,Emission
+Bangladesh,6815,Food Transport,2017,kt,1218.186022,CO2,Emission
+Bangladesh,6815,Food Transport,2018,kt,1327.681042,CO2,Emission
+Bangladesh,6815,Food Transport,2019,kt,1294.372582,CO2,Emission
+Bangladesh,6815,Food Transport,2020,kt,1144.776816,CO2,Emission
+Bangladesh,6815,Food Transport,2021,kt,1270.117297,CO2,Emission
+Bangladesh,6815,Food Transport,2022,kt,1408.905286,CO2,Emission
+Bangladesh,6815,Food Transport,2023,kt,1408.905286,CO2,Emission
+Bangladesh,6506,Food Packaging,1990,kt,1.908018,CO2,Emission
+Bangladesh,6506,Food Packaging,1991,kt,2.040765,CO2,Emission
+Bangladesh,6506,Food Packaging,1992,kt,2.143415,CO2,Emission
+Bangladesh,6506,Food Packaging,1993,kt,2.276347,CO2,Emission
+Bangladesh,6506,Food Packaging,1994,kt,2.48419,CO2,Emission
+Bangladesh,6506,Food Packaging,1995,kt,14.90514,CO2,Emission
+Bangladesh,6506,Food Packaging,1996,kt,27.809672,CO2,Emission
+Bangladesh,6506,Food Packaging,1997,kt,25.70692,CO2,Emission
+Bangladesh,6506,Food Packaging,1998,kt,23.189496,CO2,Emission
+Bangladesh,6508,Food Retail,1990,kt,9.573564,CO2,Emission
+Bangladesh,6508,Food Retail,1991,kt,4.427514,CO2,Emission
+Bangladesh,6508,Food Retail,1992,kt,5.254639,CO2,Emission
+Bangladesh,6508,Food Retail,1993,kt,5.719896,CO2,Emission
+Bangladesh,6508,Food Retail,1994,kt,6.458894,CO2,Emission
+Bangladesh,6508,Food Retail,1995,kt,7.0785,CO2,Emission
+Bangladesh,6508,Food Retail,1996,kt,6.825572,CO2,Emission
+Bangladesh,6508,Food Retail,1997,kt,7.258095,CO2,Emission
+Bangladesh,6508,Food Retail,1998,kt,20.208825,CO2,Emission
+Bangladesh,6508,Food Retail,1999,kt,33.33317,CO2,Emission
+Bangladesh,6508,Food Retail,2000,kt,43.389255,CO2,Emission
+Bangladesh,6508,Food Retail,2001,kt,60.18714,CO2,Emission
+Bangladesh,6508,Food Retail,2002,kt,73.51084,CO2,Emission
+Bangladesh,6508,Food Retail,2003,kt,82.4824,CO2,Emission
+Bangladesh,6508,Food Retail,2004,kt,89.884763,CO2,Emission
+Bangladesh,6508,Food Retail,2005,kt,103.46063,CO2,Emission
+Bangladesh,6508,Food Retail,2006,kt,160.778897,CO2,Emission
+Bangladesh,6508,Food Retail,2007,kt,178.316619,CO2,Emission
+Bangladesh,6508,Food Retail,2008,kt,175.823193,CO2,Emission
+Bangladesh,6508,Food Retail,2009,kt,206.669775,CO2,Emission
+Bangladesh,6508,Food Retail,2010,kt,291.914116,CO2,Emission
+Bangladesh,6508,Food Retail,2011,kt,253.167057,CO2,Emission
+Bangladesh,6508,Food Retail,2012,kt,268.522917,CO2,Emission
+Bangladesh,6508,Food Retail,2013,kt,279.834399,CO2,Emission
+Bangladesh,6508,Food Retail,2014,kt,316.080674,CO2,Emission
+Bangladesh,6508,Food Retail,2015,kt,347.216298,CO2,Emission
+Bangladesh,6508,Food Retail,2016,kt,361.842312,CO2,Emission
+Bangladesh,6508,Food Retail,2017,kt,374.832723,CO2,Emission
+Bangladesh,6508,Food Retail,2018,kt,390.254869,CO2,Emission
+Bangladesh,6508,Food Retail,2019,kt,519.023242,CO2,Emission
+Bangladesh,6508,Food Retail,2020,kt,445.335578,CO2,Emission
+Bangladesh,6508,Food Retail,2021,kt,601.246977,CO2,Emission
+Bangladesh,6508,Food Retail,2022,kt,632.067911,CO2,Emission
+Bangladesh,6508,Food Retail,2023,kt,632.067911,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1990,kt,157.602534,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1991,kt,199.126136,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1992,kt,198.182885,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1993,kt,245.112856,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1994,kt,294.503113,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1995,kt,333.924319,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1996,kt,351.552883,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1997,kt,386.140306,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1998,kt,435.224777,CO2,Emission
+Bangladesh,6505,Food Household Consumption,1999,kt,484.585777,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2000,kt,554.716977,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2001,kt,660.26611,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2002,kt,732.888636,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2003,kt,786.624495,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2004,kt,841.188162,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2005,kt,894.737063,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2006,kt,994.115296,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2007,kt,1054.585913,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2008,kt,1052.547157,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2009,kt,1124.12083,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2010,kt,1302.833914,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2011,kt,1373.416395,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2012,kt,1485.62763,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2013,kt,1557.658093,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2014,kt,1781.531048,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2015,kt,1862.988641,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2016,kt,2301.072842,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2017,kt,2465.341974,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2018,kt,2671.472919,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2019,kt,2799.033445,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2020,kt,2789.790653,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2021,kt,3032.615966,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2022,kt,3133.571851,CO2,Emission
+Bangladesh,6505,Food Household Consumption,2023,kt,3133.571851,CO2,Emission
+Bangladesh,6990,Incineration,1990,kt,46.542189,CO2,Emission
+Bangladesh,6990,Incineration,1991,kt,46.502744,CO2,Emission
+Bangladesh,6990,Incineration,1992,kt,46.548912,CO2,Emission
+Bangladesh,6990,Incineration,1993,kt,46.635435,CO2,Emission
+Bangladesh,6990,Incineration,1994,kt,46.670072,CO2,Emission
+Bangladesh,6990,Incineration,1995,kt,46.894282,CO2,Emission
+Bangladesh,6990,Incineration,1996,kt,47.283403,CO2,Emission
+Bangladesh,6990,Incineration,1997,kt,47.356845,CO2,Emission
+Bangladesh,6990,Incineration,1998,kt,47.425064,CO2,Emission
+Bangladesh,6990,Incineration,1999,kt,47.473967,CO2,Emission
+Bangladesh,6990,Incineration,2000,kt,47.551217,CO2,Emission
+Bangladesh,6990,Incineration,2001,kt,47.573506,CO2,Emission
+Bangladesh,6990,Incineration,2002,kt,47.599459,CO2,Emission
+Bangladesh,6990,Incineration,2003,kt,47.78174,CO2,Emission
+Bangladesh,6990,Incineration,2004,kt,47.93395,CO2,Emission
+Bangladesh,6990,Incineration,2005,kt,48.058939,CO2,Emission
+Bangladesh,6990,Incineration,2006,kt,48.122167,CO2,Emission
+Bangladesh,6990,Incineration,2007,kt,48.321099,CO2,Emission
+Bangladesh,6990,Incineration,2008,kt,48.591913,CO2,Emission
+Bangladesh,6990,Incineration,2009,kt,48.807113,CO2,Emission
+Bangladesh,6990,Incineration,2010,kt,49.033707,CO2,Emission
+Bangladesh,6990,Incineration,2011,kt,49.244391,CO2,Emission
+Bangladesh,6990,Incineration,2012,kt,49.313537,CO2,Emission
+Bangladesh,6990,Incineration,2013,kt,49.540595,CO2,Emission
+Bangladesh,6990,Incineration,2014,kt,49.813975,CO2,Emission
+Bangladesh,6990,Incineration,2015,kt,50.047135,CO2,Emission
+Bangladesh,6990,Incineration,2016,kt,50.637809,CO2,Emission
+Bangladesh,6990,Incineration,2017,kt,50.834348,CO2,Emission
+Bangladesh,6990,Incineration,2018,kt,51.007418,CO2,Emission
+Bangladesh,6990,Incineration,2019,kt,51.178513,CO2,Emission
+Bangladesh,6990,Incineration,2020,kt,51.299323,CO2,Emission
+Bangladesh,6990,Incineration,2021,kt,51.505574,CO2,Emission
+Bangladesh,6990,Incineration,2022,kt,51.698422,CO2,Emission
+Bangladesh,6990,Incineration,2023,kt,51.600954,CO2,Emission
+Bangladesh,6997,Pesticides Manufacturing,1990,kt,0.00088,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1991,kt,0.000899,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1992,kt,0.001004,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1993,kt,0.001029,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1994,kt,0.000261,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1995,kt,0.000317,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1996,kt,0.000695,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1997,kt,0.00036,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1998,kt,0.000614,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1999,kt,0.0017,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2000,kt,0.001747,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2001,kt,0.001294,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2002,kt,0.002396,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2003,kt,0.003127,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2004,kt,0.004181,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2005,kt,0.003772,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2006,kt,0.003737,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2007,kt,0.004165,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2008,kt,0.007281,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2009,kt,0.008019,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2010,kt,0.00577,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2011,kt,0.003802,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2012,kt,0.007644,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2013,kt,0.001506,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2014,kt,0.008869,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2015,kt,0.00098,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2016,kt,0.008403,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2017,kt,0.008938,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2018,kt,0.009034,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2019,kt,0.008011,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2020,kt,0.008094,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2021,kt,0.008094,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2022,kt,0.008094,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,2023,kt,0.008094,CH4,Emission
+Bangladesh,6815,Food Transport,1990,kt,0.019603,CH4,Emission
+Bangladesh,6815,Food Transport,1991,kt,0.021656,CH4,Emission
+Bangladesh,6815,Food Transport,1992,kt,0.024615,CH4,Emission
+Bangladesh,6815,Food Transport,1993,kt,0.026808,CH4,Emission
+Bangladesh,6815,Food Transport,1994,kt,0.028617,CH4,Emission
+Bangladesh,6815,Food Transport,1995,kt,0.034791,CH4,Emission
+Bangladesh,6815,Food Transport,1996,kt,0.038638,CH4,Emission
+Bangladesh,6815,Food Transport,1997,kt,0.048125,CH4,Emission
+Bangladesh,6815,Food Transport,1998,kt,0.047831,CH4,Emission
+Bangladesh,6815,Food Transport,1999,kt,0.038942,CH4,Emission
+Bangladesh,6815,Food Transport,2000,kt,0.045446,CH4,Emission
+Bangladesh,6815,Food Transport,2001,kt,0.049327,CH4,Emission
+Bangladesh,6815,Food Transport,2002,kt,0.048847,CH4,Emission
+Bangladesh,6815,Food Transport,2003,kt,0.056039,CH4,Emission
+Bangladesh,6815,Food Transport,2004,kt,0.072756,CH4,Emission
+Bangladesh,6815,Food Transport,2005,kt,0.095085,CH4,Emission
+Bangladesh,6815,Food Transport,2006,kt,0.134056,CH4,Emission
+Bangladesh,6815,Food Transport,2007,kt,0.182128,CH4,Emission
+Bangladesh,6815,Food Transport,2008,kt,0.300825,CH4,Emission
+Bangladesh,6815,Food Transport,2009,kt,0.388442,CH4,Emission
+Bangladesh,6815,Food Transport,2010,kt,0.488891,CH4,Emission
+Bangladesh,6815,Food Transport,2011,kt,0.488539,CH4,Emission
+Bangladesh,6815,Food Transport,2012,kt,0.491526,CH4,Emission
+Bangladesh,6815,Food Transport,2013,kt,0.490594,CH4,Emission
+Bangladesh,6815,Food Transport,2014,kt,0.520665,CH4,Emission
+Bangladesh,6815,Food Transport,2015,kt,0.554737,CH4,Emission
+Bangladesh,6815,Food Transport,2016,kt,0.596664,CH4,Emission
+Bangladesh,6815,Food Transport,2017,kt,0.616351,CH4,Emission
+Bangladesh,6815,Food Transport,2018,kt,0.623584,CH4,Emission
+Bangladesh,6815,Food Transport,2019,kt,0.6055,CH4,Emission
+Bangladesh,6815,Food Transport,2020,kt,0.517353,CH4,Emission
+Bangladesh,6815,Food Transport,2021,kt,0.486615,CH4,Emission
+Bangladesh,6815,Food Transport,2022,kt,0.54852,CH4,Emission
+Bangladesh,6815,Food Transport,2023,kt,0.54852,CH4,Emission
+Bangladesh,6506,Food Packaging,1990,kt,0.000037,CH4,Emission
+Bangladesh,6506,Food Packaging,1991,kt,0.00004,CH4,Emission
+Bangladesh,6506,Food Packaging,1992,kt,0.00004,CH4,Emission
+Bangladesh,6506,Food Packaging,1993,kt,0.00004,CH4,Emission
+Bangladesh,6506,Food Packaging,1994,kt,0.000044,CH4,Emission
+Bangladesh,6506,Food Packaging,1995,kt,0.000264,CH4,Emission
+Bangladesh,6506,Food Packaging,1996,kt,0.000498,CH4,Emission
+Bangladesh,6506,Food Packaging,1997,kt,0.00046,CH4,Emission
+Bangladesh,6506,Food Packaging,1998,kt,0.000413,CH4,Emission
+Bangladesh,6508,Food Retail,1990,kt,0.000184,CH4,Emission
+Bangladesh,6508,Food Retail,1991,kt,0.000088,CH4,Emission
+Bangladesh,6508,Food Retail,1992,kt,0.000099,CH4,Emission
+Bangladesh,6508,Food Retail,1993,kt,0.0001,CH4,Emission
+Bangladesh,6508,Food Retail,1994,kt,0.000114,CH4,Emission
+Bangladesh,6508,Food Retail,1995,kt,0.000125,CH4,Emission
+Bangladesh,6508,Food Retail,1996,kt,0.000128,CH4,Emission
+Bangladesh,6508,Food Retail,1997,kt,0.000132,CH4,Emission
+Bangladesh,6508,Food Retail,1998,kt,0.000366,CH4,Emission
+Bangladesh,6508,Food Retail,1999,kt,0.000599,CH4,Emission
+Bangladesh,6508,Food Retail,2000,kt,0.000832,CH4,Emission
+Bangladesh,6508,Food Retail,2001,kt,0.001066,CH4,Emission
+Bangladesh,6508,Food Retail,2002,kt,0.001299,CH4,Emission
+Bangladesh,6508,Food Retail,2003,kt,0.001532,CH4,Emission
+Bangladesh,6508,Food Retail,2004,kt,0.001765,CH4,Emission
+Bangladesh,6508,Food Retail,2005,kt,0.001999,CH4,Emission
+Bangladesh,6508,Food Retail,2006,kt,0.002975,CH4,Emission
+Bangladesh,6508,Food Retail,2007,kt,0.003268,CH4,Emission
+Bangladesh,6508,Food Retail,2008,kt,0.003239,CH4,Emission
+Bangladesh,6508,Food Retail,2009,kt,0.003813,CH4,Emission
+Bangladesh,6508,Food Retail,2010,kt,0.005274,CH4,Emission
+Bangladesh,6508,Food Retail,2011,kt,0.004641,CH4,Emission
+Bangladesh,6508,Food Retail,2012,kt,0.004926,CH4,Emission
+Bangladesh,6508,Food Retail,2013,kt,0.005112,CH4,Emission
+Bangladesh,6508,Food Retail,2014,kt,0.005745,CH4,Emission
+Bangladesh,6508,Food Retail,2015,kt,0.006486,CH4,Emission
+Bangladesh,6508,Food Retail,2016,kt,0.007202,CH4,Emission
+Bangladesh,6508,Food Retail,2017,kt,0.007731,CH4,Emission
+Bangladesh,6508,Food Retail,2018,kt,0.008227,CH4,Emission
+Bangladesh,6508,Food Retail,2019,kt,0.008127,CH4,Emission
+Bangladesh,6508,Food Retail,2020,kt,0.006972,CH4,Emission
+Bangladesh,6508,Food Retail,2021,kt,0.009377,CH4,Emission
+Bangladesh,6508,Food Retail,2022,kt,0.009849,CH4,Emission
+Bangladesh,6508,Food Retail,2023,kt,0.009849,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1990,kt,0.007884,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1991,kt,0.01096,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1992,kt,0.00968,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1993,kt,0.010912,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1994,kt,0.014101,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1995,kt,0.015981,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1996,kt,0.016973,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1997,kt,0.018313,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1998,kt,0.019257,CH4,Emission
+Bangladesh,6505,Food Household Consumption,1999,kt,0.021115,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2000,kt,0.024236,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2001,kt,0.02742,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2002,kt,0.030839,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2003,kt,0.035437,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2004,kt,0.039425,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2005,kt,0.041195,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2006,kt,0.044864,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2007,kt,0.04898,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2008,kt,0.051292,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2009,kt,0.05419,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2010,kt,0.061696,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2011,kt,0.065833,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2012,kt,0.068672,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2013,kt,0.07002,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2014,kt,0.078837,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2015,kt,0.088136,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2016,kt,0.108434,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2017,kt,0.119354,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2018,kt,0.126005,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2019,kt,0.117361,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2020,kt,0.104499,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2021,kt,0.109487,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2022,kt,0.107947,CH4,Emission
+Bangladesh,6505,Food Household Consumption,2023,kt,0.107947,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1990,kt,339.969382,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1991,kt,341.926289,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1992,kt,343.365262,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1993,kt,344.548622,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1994,kt,345.418314,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1995,kt,346.582135,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1996,kt,348.343516,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1997,kt,349.65271,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1998,kt,350.696737,CH4,Emission
+Bangladesh,6987,Solid Food Waste,1999,kt,351.513342,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2000,kt,352.254815,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2001,kt,352.797516,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2002,kt,353.225545,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2003,kt,353.985047,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2004,kt,354.862526,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2005,kt,355.752793,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2006,kt,356.494523,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2007,kt,357.501768,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2008,kt,358.852847,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2009,kt,360.277171,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2010,kt,361.789493,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2011,kt,363.317317,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2012,kt,364.487886,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2013,kt,365.855198,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2014,kt,367.449753,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2015,kt,369.083847,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2016,kt,371.686238,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2017,kt,373.848241,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2018,kt,375.718078,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2019,kt,377.390743,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2020,kt,378.800021,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2021,kt,380.26447,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2022,kt,381.716872,CH4,Emission
+Bangladesh,6987,Solid Food Waste,2023,kt,382.403956,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1990,kt,149.115286,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1991,kt,151.99169,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1992,kt,154.88371,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1993,kt,157.79588,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1994,kt,160.748993,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1995,kt,163.764047,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1996,kt,166.785269,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1997,kt,169.905446,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1998,kt,173.143667,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,1999,kt,176.463997,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2000,kt,179.718215,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2001,kt,182.739033,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2002,kt,185.581316,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2003,kt,188.301839,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2004,kt,190.883192,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2005,kt,193.304822,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2006,kt,195.562498,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2007,kt,197.677405,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2008,kt,199.660982,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2009,kt,201.530305,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2010,kt,203.304544,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2011,kt,205.160034,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2012,kt,207.135649,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2013,kt,209.088576,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2014,kt,211.00243,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2015,kt,212.896864,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2016,kt,214.805329,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2017,kt,216.640943,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2018,kt,218.426788,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2019,kt,220.283423,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2020,kt,222.133402,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2021,kt,223.951139,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2022,kt,226.256708,CH4,Emission
+Bangladesh,6988,Domestic Wastewater,2023,kt,229.037874,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1990,kt,1.348954,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1991,kt,1.527468,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1992,kt,1.527046,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1993,kt,1.585861,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1994,kt,1.665233,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1995,kt,2.242918,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1996,kt,1.980699,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1997,kt,1.928674,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1998,kt,2.043922,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,1999,kt,2.077518,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2000,kt,2.051532,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2001,kt,2.063091,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2002,kt,2.524627,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2003,kt,2.42237,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2004,kt,2.336408,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2005,kt,2.413404,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2006,kt,2.590954,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2007,kt,2.630658,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2008,kt,2.508305,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2009,kt,2.479398,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2010,kt,2.538825,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2011,kt,2.657031,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2012,kt,2.687172,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2013,kt,2.855629,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2014,kt,2.077319,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2015,kt,2.017641,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2016,kt,2.03229,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2017,kt,2.072879,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2018,kt,2.089907,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2019,kt,2.089907,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2020,kt,2.089907,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2021,kt,1.748585,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2022,kt,1.748585,CH4,Emission
+Bangladesh,6989,Industrial Wastewater,2023,kt,1.748585,CH4,Emission
+Bangladesh,6997,Pesticides Manufacturing,1990,kt,0.000149,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1991,kt,0.000141,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1992,kt,0.00017,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1993,kt,0.000175,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1994,kt,0.000044,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1995,kt,0.000058,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1996,kt,0.000118,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1997,kt,0.000066,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1998,kt,0.000112,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,1999,kt,0.00031,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2000,kt,0.000297,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2001,kt,0.000236,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2002,kt,0.000436,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2003,kt,0.000529,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2004,kt,0.000709,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2005,kt,0.000638,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2006,kt,0.000678,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2007,kt,0.00076,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2008,kt,0.001327,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2009,kt,0.001461,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2010,kt,0.00105,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2011,kt,0.000695,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2012,kt,0.001392,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2013,kt,0.000273,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2014,kt,0.00173,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2015,kt,0.000182,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2016,kt,0.001423,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2017,kt,0.001514,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2018,kt,0.001647,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2019,kt,0.001547,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2020,kt,0.001563,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2021,kt,0.001563,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2022,kt,0.001563,N2O,Emission
+Bangladesh,6997,Pesticides Manufacturing,2023,kt,0.001563,N2O,Emission
+Bangladesh,6815,Food Transport,1990,kt,0.019634,N2O,Emission
+Bangladesh,6815,Food Transport,1991,kt,0.024201,N2O,Emission
+Bangladesh,6815,Food Transport,1992,kt,0.028038,N2O,Emission
+Bangladesh,6815,Food Transport,1993,kt,0.02874,N2O,Emission
+Bangladesh,6815,Food Transport,1994,kt,0.029307,N2O,Emission
+Bangladesh,6815,Food Transport,1995,kt,0.035434,N2O,Emission
+Bangladesh,6815,Food Transport,1996,kt,0.039088,N2O,Emission
+Bangladesh,6815,Food Transport,1997,kt,0.04408,N2O,Emission
+Bangladesh,6815,Food Transport,1998,kt,0.045182,N2O,Emission
+Bangladesh,6815,Food Transport,1999,kt,0.041357,N2O,Emission
+Bangladesh,6815,Food Transport,2000,kt,0.040274,N2O,Emission
+Bangladesh,6815,Food Transport,2001,kt,0.050354,N2O,Emission
+Bangladesh,6815,Food Transport,2002,kt,0.051189,N2O,Emission
+Bangladesh,6815,Food Transport,2003,kt,0.052255,N2O,Emission
+Bangladesh,6815,Food Transport,2004,kt,0.059707,N2O,Emission
+Bangladesh,6815,Food Transport,2005,kt,0.059649,N2O,Emission
+Bangladesh,6815,Food Transport,2006,kt,0.06379,N2O,Emission
+Bangladesh,6815,Food Transport,2007,kt,0.061715,N2O,Emission
+Bangladesh,6815,Food Transport,2008,kt,0.065947,N2O,Emission
+Bangladesh,6815,Food Transport,2009,kt,0.067436,N2O,Emission
+Bangladesh,6815,Food Transport,2010,kt,0.0748,N2O,Emission
+Bangladesh,6815,Food Transport,2011,kt,0.099066,N2O,Emission
+Bangladesh,6815,Food Transport,2012,kt,0.100579,N2O,Emission
+Bangladesh,6815,Food Transport,2013,kt,0.094592,N2O,Emission
+Bangladesh,6815,Food Transport,2014,kt,0.102555,N2O,Emission
+Bangladesh,6815,Food Transport,2015,kt,0.107234,N2O,Emission
+Bangladesh,6815,Food Transport,2016,kt,0.113142,N2O,Emission
+Bangladesh,6815,Food Transport,2017,kt,0.127649,N2O,Emission
+Bangladesh,6815,Food Transport,2018,kt,0.14673,N2O,Emission
+Bangladesh,6815,Food Transport,2019,kt,0.143152,N2O,Emission
+Bangladesh,6815,Food Transport,2020,kt,0.127473,N2O,Emission
+Bangladesh,6815,Food Transport,2021,kt,0.137537,N2O,Emission
+Bangladesh,6815,Food Transport,2022,kt,0.155318,N2O,Emission
+Bangladesh,6815,Food Transport,2023,kt,0.155318,N2O,Emission
+Bangladesh,6506,Food Packaging,1990,kt,0.000005,N2O,Emission
+Bangladesh,6506,Food Packaging,1991,kt,0.000004,N2O,Emission
+Bangladesh,6506,Food Packaging,1992,kt,0.000006,N2O,Emission
+Bangladesh,6506,Food Packaging,1993,kt,0.000006,N2O,Emission
+Bangladesh,6506,Food Packaging,1994,kt,0.000006,N2O,Emission
+Bangladesh,6506,Food Packaging,1995,kt,0.000037,N2O,Emission
+Bangladesh,6506,Food Packaging,1996,kt,0.000052,N2O,Emission
+Bangladesh,6506,Food Packaging,1997,kt,0.00005,N2O,Emission
+Bangladesh,6506,Food Packaging,1998,kt,0.000041,N2O,Emission
+Bangladesh,6508,Food Retail,1990,kt,0.000026,N2O,Emission
+Bangladesh,6508,Food Retail,1991,kt,0.000009,N2O,Emission
+Bangladesh,6508,Food Retail,1992,kt,0.000014,N2O,Emission
+Bangladesh,6508,Food Retail,1993,kt,0.000014,N2O,Emission
+Bangladesh,6508,Food Retail,1994,kt,0.000016,N2O,Emission
+Bangladesh,6508,Food Retail,1995,kt,0.000022,N2O,Emission
+Bangladesh,6508,Food Retail,1996,kt,0.000018,N2O,Emission
+Bangladesh,6508,Food Retail,1997,kt,0.000023,N2O,Emission
+Bangladesh,6508,Food Retail,1998,kt,0.000064,N2O,Emission
+Bangladesh,6508,Food Retail,1999,kt,0.000105,N2O,Emission
+Bangladesh,6508,Food Retail,2000,kt,0.000117,N2O,Emission
+Bangladesh,6508,Food Retail,2001,kt,0.000188,N2O,Emission
+Bangladesh,6508,Food Retail,2002,kt,0.000229,N2O,Emission
+Bangladesh,6508,Food Retail,2003,kt,0.000216,N2O,Emission
+Bangladesh,6508,Food Retail,2004,kt,0.000249,N2O,Emission
+Bangladesh,6508,Food Retail,2005,kt,0.000282,N2O,Emission
+Bangladesh,6508,Food Retail,2006,kt,0.000467,N2O,Emission
+Bangladesh,6508,Food Retail,2007,kt,0.000514,N2O,Emission
+Bangladesh,6508,Food Retail,2008,kt,0.000499,N2O,Emission
+Bangladesh,6508,Food Retail,2009,kt,0.000591,N2O,Emission
+Bangladesh,6508,Food Retail,2010,kt,0.00084,N2O,Emission
+Bangladesh,6508,Food Retail,2011,kt,0.000725,N2O,Emission
+Bangladesh,6508,Food Retail,2012,kt,0.000775,N2O,Emission
+Bangladesh,6508,Food Retail,2013,kt,0.000803,N2O,Emission
+Bangladesh,6508,Food Retail,2014,kt,0.001071,N2O,Emission
+Bangladesh,6508,Food Retail,2015,kt,0.001042,N2O,Emission
+Bangladesh,6508,Food Retail,2016,kt,0.000961,N2O,Emission
+Bangladesh,6508,Food Retail,2017,kt,0.001038,N2O,Emission
+Bangladesh,6508,Food Retail,2018,kt,0.001359,N2O,Emission
+Bangladesh,6508,Food Retail,2019,kt,0.001589,N2O,Emission
+Bangladesh,6508,Food Retail,2020,kt,0.001365,N2O,Emission
+Bangladesh,6508,Food Retail,2021,kt,0.001883,N2O,Emission
+Bangladesh,6508,Food Retail,2022,kt,0.001985,N2O,Emission
+Bangladesh,6508,Food Retail,2023,kt,0.001985,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1990,kt,0.000356,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1991,kt,0.000381,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1992,kt,0.000447,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1993,kt,0.000536,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1994,kt,0.000637,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1995,kt,0.000841,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1996,kt,0.000794,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1997,kt,0.001,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1998,kt,0.001154,N2O,Emission
+Bangladesh,6505,Food Household Consumption,1999,kt,0.001284,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2000,kt,0.001311,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2001,kt,0.001749,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2002,kt,0.001931,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2003,kt,0.001799,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2004,kt,0.001992,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2005,kt,0.002105,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2006,kt,0.002704,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2007,kt,0.002805,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2008,kt,0.002773,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2009,kt,0.002981,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2010,kt,0.00339,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2011,kt,0.003615,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2012,kt,0.003966,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2013,kt,0.004182,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2014,kt,0.005505,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2015,kt,0.005024,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2016,kt,0.005632,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2017,kt,0.006177,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2018,kt,0.008149,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2019,kt,0.00759,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2020,kt,0.007817,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2021,kt,0.008582,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2022,kt,0.008971,N2O,Emission
+Bangladesh,6505,Food Household Consumption,2023,kt,0.008971,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1990,kt,1.54226,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1991,kt,1.558589,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1992,kt,1.572815,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1993,kt,1.533433,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1994,kt,1.581785,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1995,kt,1.629993,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1996,kt,1.669127,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1997,kt,1.724204,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1998,kt,1.775883,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,1999,kt,1.986937,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2000,kt,1.9719,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2001,kt,2.058833,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2002,kt,2.139177,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2003,kt,2.183327,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2004,kt,2.265553,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2005,kt,2.278976,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2006,kt,2.296294,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2007,kt,2.406614,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2008,kt,2.357981,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2009,kt,2.520141,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2010,kt,2.570868,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2011,kt,2.534408,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2012,kt,2.562566,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2013,kt,2.643536,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2014,kt,2.795291,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2015,kt,2.897513,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2016,kt,2.912788,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2017,kt,3.009294,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2018,kt,3.127571,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2019,kt,3.118245,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2020,kt,3.253069,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2021,kt,3.387187,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2022,kt,3.409251,N2O,Emission
+Bangladesh,6988,Domestic Wastewater,2023,kt,3.451158,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1990,kt,0.02366,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1991,kt,0.02462,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1992,kt,0.024965,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1993,kt,0.013719,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1994,kt,0.015443,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1995,kt,0.017127,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1996,kt,0.018208,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1997,kt,0.02029,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1998,kt,0.021913,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,1999,kt,0.023728,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2000,kt,0.02556,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2001,kt,0.028385,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2002,kt,0.030457,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2003,kt,0.032934,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2004,kt,0.033675,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2005,kt,0.034527,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2006,kt,0.034714,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2007,kt,0.033448,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2008,kt,0.032028,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2009,kt,0.030916,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2010,kt,0.030666,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2011,kt,0.030017,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2012,kt,0.031385,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2013,kt,0.033363,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2014,kt,0.026359,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2015,kt,0.028853,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2016,kt,0.030162,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2017,kt,0.029573,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2018,kt,0.028529,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2019,kt,0.028529,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2020,kt,0.028529,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2021,kt,0.026426,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2022,kt,0.026426,N2O,Emission
+Bangladesh,6989,Industrial Wastewater,2023,kt,0.026426,N2O,Emission

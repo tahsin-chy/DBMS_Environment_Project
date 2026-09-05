@@ -1,0 +1,33 @@
+River_Station_ID,River_Station Name,River_Name,district,upazila,latitude,longitude,start_date,Last_date
+SW247,Bandarban,Sangu,Bandarban,Bandarban Sadar,22.1966,92.2166,2017-10-07,2025-12-01
+SW123,Gangasagar Rly.,Hawrah,Brahmanbaria,Akhaura,23.8335,91.1985,2000-03-01,2007-12-05
+SW119.1,Panchpukuria,Halda,Chattogram,Fatikchhari,22.667,91.7821,2017-10-10,2025-12-02
+SW84.1,Kaliachari,Feni,Chattogram,Mirsharai,22.939,91.6157,2000-01-08,2025-12-06
+SW206,Hatboalia,Mathabhanga,Chuadanga,Alamdanga,23.8264,88.8626,2000-01-04,2025-12-08
+SW208,Darsana,Mathabhanga,Chuadanga,Damurhuda,23.5246,88.7884,1970-01-01,2025-12-17
+SW110,Cumilla,Gumti-Burinadi,Cumilla,Cumilla Sadar,23.4704,91.2027,2000-01-04,2025-12-01
+SW114,Jibanpur_Gumti,Gumti-Burinadi,Cumilla,Debidwar,23.6056,90.9942,2000-01-05,2004-12-29
+SW101,Kamarkhali Transit,Gorai-Madhumati-Haringhata-Baleswar,Faridpur,Madhukhali,23.5391,89.5169,2005-01-12,2023-10-23
+SW101.B,Kamarkhali,Gorai-Madhumati-Haringhata-Baleswar,Faridpur,Madhukhali,23.5395,89.5168,2021-06-02,2025-06-23
+SW4A,Offtake of Arialkhan,Arial Khan,Faridpur,Sadarpur,23.4333,90.0877,2022-01-05,2025-06-22
+SW212,Parshuram,Muhuri,Feni,Parshuram,23.2274,91.4464,2000-01-06,2025-12-04
+SW158.1,Shaistaganj,Khowai,Habiganj,Habiganj Sadar,24.2731,91.4736,2000-01-05,2025-12-03
+SW46.9L,Bahadurabad_Transit,Brahmaputra-Jamuna,Jamalpur,Islampur,25.1303,89.7346,2002-01-07,2025-12-25
+SW162,Jhikargacha,Kobadak,Jessore,Jhikargachha,23.1054,89.0938,2022-01-05,2025-12-08
+SW171,Garaganj,Kumar (Jessore),Jhenaidah,Shailkupa,23.6683,89.2,2022-01-09,2025-12-07
+SW273,Bhairab Bazar,Surma-Meghna,Kishoreganj,Bhairab,24.0455,90.9911,2000-06-01,2025-12-08
+SW81,Pateswari,Dudhkumar,Kurigram,Bhurungamari,26.0972,89.7206,2019-07-11,2025-10-23
+SW77,Kurigram,Dharla,Kurigram,Kurigram Sadar,25.8228,89.6647,2019-07-08,2025-10-27
+SW99,Gorai Railway Bridge,Gorai-Madhumati-Haringhata-Baleswar,Kushtia,Kumarkhali,23.8861,89.1806,2016-07-20,2025-10-22
+SW216,Magura,Nabaganga,Magura,Magura Sadar,23.4946,89.4235,2025-07-07,2025-12-08
+SW91.9L,Baruria Transit,Ganges-Padma,Manikganj,Harirampur,23.7843,89.8139,1991-01-04,2025-07-04
+SW205,Kazipur,Mathabhanga,Meherpur,Gangni,23.9631,88.7425,2022-01-02,2025-12-21
+SW32,Kathuli,Bhairab (upper),Meherpur,Gangni,23.8612,88.6487,2022-07-06,2025-12-17
+SW93.5L,Mawa,Ganges-Padma,Munshiganj,Lohajang,23.4748,90.2531,2012-01-10,2025-12-15
+SW291.5R,Dalia,Teesta,Nilphamari,Dimla,26.1758,89.0505,2019-07-03,2025-10-26
+SW90,Hardinge Bridge,Ganges-Padma,Pabna,Ishwardi,24.0794,89.0336,2016-07-25,2025-10-27
+SW350,Rajnganj,Kirtinasha,Shariatpur,Sariatpur Sadar,23.2206,90.3392,2022-07-07,2025-06-22
+SW173,Sheola,Kushiyara,Sylhet,Beanibazar,24.8911,92.1915,2000-01-14,2025-12-28
+SW175.5,Sherpur,Kushiyara,Sylhet,Osmani Nagar,24.6303,91.6813,2000-01-02,2025-12-25
+SW267,Sylhet,Surma-Meghna,Sylhet,Sylhet Sadar,24.8879,91.868,2000-01-13,2025-12-18
+SW91-9L,N/A,,,,0,0,2023-11-14,2023-11-14
