@@ -2,99 +2,38 @@
 
 ## Overview
 
-A relational database project designed to store, manage, and integrate environmental data from Bangladesh, including climate, rainfall, floods, rivers, water quality, land use, pollution, and greenhouse gas emissions.
+This project develops a relational database for storing, managing, and integrating environmental data from Bangladesh.
 
-The datasets were collected from multiple sources, cleaned, transformed, and loaded into a centralized MySQL database.
+The database includes data related to climate, rainfall, precipitation, floods, rivers, water quality, land use, pollution, environmental indicators, and greenhouse gas emissions. The datasets were collected from multiple sources, processed, and integrated into a centralized MySQL database.
 
 ---
 
 ## Objectives
 
-* Organize environmental datasets of Bangladesh.
-* Design a relational database using an ER model.
-* Maintain relationships and data integrity using primary and foreign keys.
-* Clean and transform datasets for database integration.
-* Automate data loading using Python ETL.
+- Organize environmental datasets of Bangladesh.
+- Design a relational database using an Entity-Relationship (ER) model.
+- Establish relationships between geographical and environmental data.
+- Maintain data integrity using primary and foreign keys.
+- Clean and transform datasets for database integration.
+- Automate data loading using Python-based ETL processes.
 
 ---
 
 ## ER Diagram
 
-The database structure was designed using an Entity-Relationship (ER) Diagram, which defines the entities and relationships within the system.
+The database structure was designed using an Entity-Relationship (ER) Diagram that defines the major entities and relationships within the system.
 
-![Entity Relationship Diagram](diagrams/ER_Diagram_final.PNG)
+![Entity-Relationship Diagram](Environment_ER_diagram.png)
 
 ---
 
 ## Database
 
-**Database:** `environment_bd`
+**Database Name:** `environment_bd`
 
-The database contains **29 tables** covering geographical, climate, environmental, flood, river, water quality, pollution, land use, and greenhouse gas emission data.
+The database contains **29 tables** covering geographical, climate, flood, river, water quality, pollution, land use, environmental indicator, and greenhouse gas emission data.
 
 The database schema is available in:
 
-```text id="a1k9qz"
-sql/environment_bd_schema.sql
-```
-
----
-
-## ETL Process
-
-```text id="p7x3mn"
-Raw Datasets
-     ↓
-Data Cleaning
-     ↓
-Data Transformation
-     ↓
-Python ETL
-     ↓
-MySQL Database
-```
-
-### ETL Scripts
-
-* `environment_bd_etl.py` — Main ETL process.
-* `environment_bd_missing_tables_etl.py` — Processes additional tables requiring separate handling.
-
----
-
-## Repository Structure
-
-```text id="r5v2kc"
-environmental-database/
-│
-├── sql/
-│   └── environment_bd_schema.sql
-│
-├── etl/
-│   ├── environment_bd_etl.py
-│   └── environment_bd_missing_tables_etl.py
-│
-├── datasets/
-│   └── Environmental CSV datasets
-│
-├── diagrams/
-│   └── ER_Diagram_final.PNG
-│
-└── README.md
-```
-
----
-
-## Technologies Used
-
-* MySQL
-* Python
-* Pandas
-* NumPy
-* MySQL Connector/Python
-* VS Code
-
----
-
-## Project Status
-
-**Status:** Completed
+```text
+SQL/environment_bd_schema.sql
