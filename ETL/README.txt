@@ -1,5 +1,5 @@
 ETL SCRIPTS
-===========
+------------
 
 This folder contains the Python scripts used to clean, transform,
 and load environmental datasets into the MySQL database.
